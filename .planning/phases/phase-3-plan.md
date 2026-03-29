@@ -20,13 +20,13 @@ Compass should make glossary terms, KPI definitions, and publication pages easy 
 - Add freshness guidance for published or reviewed dates
 - Align editorial templates and workflow notes with the Phase 3 reading model
 
-### Wave 2 - Glossary Reading Pass
+### Wave 2 - Glossary Reading Pass (In Progress)
 
 - Normalize priority glossary pages to a summary, definition, importance, and context structure
 - Reduce walls of text and ambiguous headings inherited from migration work
 - Preserve related-term pathways that support continued exploration
 
-### Wave 3 - KPI and Publication Reading Pass
+### Wave 3 - KPI and Publication Reading Pass (In Progress)
 
 - Align KPI pages to a consistent summary-first structure with clear interpretation and why-it-matters framing
 - Align publication pages to a consistent summary, publication details, highlights, and access pattern
@@ -52,3 +52,11 @@ Compass should make glossary terms, KPI definitions, and publication pages easy 
 - Templates and workflow guidance support consistent execution across content types
 - Priority glossary, KPI, and publication pages are easier to scan and understand
 - Phase 3 can be validated through a focused GitBook reading QA pass instead of ad hoc review
+
+## Progress Notes
+
+- Readability standards and template alignment completed on 2026-03-29
+- Priority glossary normalization is underway on 2026-03-29 with completed updates for `Mentor`, `Business Accelerator`, `Innovation Ecosystem`, `Venture Capital`, `ESG Strategy`, `Business Incubator`, `Advisor`, `Coach`, `Startup Ecosystem`, and `Pre-Accelerator`
+- Remaining migration-style ESG glossary pages were normalized on 2026-03-29, including the ESG overview page and the ESG requirement, admissions, funding, goals, monitoring, training, and network-affiliation entries
+- Remaining migration-style core-concepts pages were normalized on 2026-03-29, including cluster, ecosystem, alliance, lifecycle, and partnership concepts
+- Wave 3 started on 2026-03-29 with readability updates to `Sales Revenue`, `Client Startups Accepted`, `World Benchmark Report 2021 - 2022`, `Activating Entrepreneurship in Pakistan - Impact Study with PEP Foundation`, `Ahead of the Curve - Impact Study with Ontario Centres of Excellence`, and `Triumph of Innovation - Impact Study with District 2020`

@@ -1,18 +1,30 @@
 # DEI Incubator/Accelerator or Program
 
-DEI (Diversity, Equity, and Inclusion) incubators, accelerators, or programs are dedicated initiatives designed to support underrepresented founders — including women, minorities, and other marginalized groups — by providing tailored resources, mentorship, funding, and community-building to foster a more equitable entrepreneurial ecosystem.
-## Engagement
-These organizations offer specialized business development support, capital access, network connections, and culturally relevant mentorship to address the unique challenges faced by diverse entrepreneurs. Through focused cohorts, educational curricula, and inclusive community events, DEI organizations nurture scalable startup ventures and help close opportunity gaps in the startup ecosystem.
-Bonus Fact
-DEI incubators and accelerators play a critical role in diversifying innovation by breaking down systemic barriers to funding, networks, and education. Research indicates that ventures led by diverse founders increase market innovation and economic inclusion. Many regions and organizations prioritize DEI initiatives to cultivate vibrant, resilient startup ecosystems that reflect broader societal diversity.
-## Related Articles
-- Startup Incubator
-- Startup Accelerator
-- Environmental, Social & Governance (Sustainable Development Goals/SDGs)
-- Commercialization Program
-- Dual-Track Incubation
+## Summary
 
-## Source
+A DEI incubator, accelerator, or program is a startup support initiative designed to improve access and outcomes for underrepresented founders through inclusive, targeted programming.
+
+## Definition
+
+These programs are built to support entrepreneurs who face structural barriers related to representation, access to capital, networks, or opportunity. They often combine tailored mentorship, business support, funding pathways, and community-building to help more diverse founders succeed.
+
+## Why It Matters
+
+DEI-focused programs can help close long-standing gaps in who gets to participate in innovation ecosystems and who benefits from them. They also strengthen ecosystem resilience by broadening the range of founders, ideas, and market perspectives that receive support.
+
+## Industry Context
+
+Some DEI programs are entirely dedicated to specific founder groups, while others embed DEI priorities into broader incubation or acceleration models. Common features include culturally relevant support, targeted cohort design, and intentional efforts to reduce barriers to education, networks, and capital.
+
+## Related Terms
+
+- [Business Incubator](../organizational-types-and-methodologies/business-incubator.md)
+- [Business Accelerator](../key-players/business-accelerator.md)
+- [Environmental, Social & Governance (SDG)](environmental-social-and-governance-sdg/README.md)
+- [Commercialization Program](../innovation-terms-and-practices/commercialization-program.md)
+- [Dual-Track Incubation](../organizational-types-and-methodologies/dual-track-incubation.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/esg/dei-incubator-accelerator-or-program

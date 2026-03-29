@@ -1,20 +1,30 @@
 # Coach
 
-A coach works with startup founders to help define clear business objectives and goals, providing structured guidance and holding them accountable for action plans. Unlike mentors, coaches may not have industry-specific experience but focus on supporting the individual’s or business’s potential through a time-bound, goal-oriented process that assists, encourages, and challenges the founder.
-### Did You Know
-Coaching is a focused, often short-term engagement where the coach helps founders articulate their vision, develop strategies, and navigate challenges. Regular sessions emphasize skill development, decision-making, and overcoming obstacles. Coaches foster accountability, resilience, and adaptive thinking, enabling startups to make measurable progress toward their goals.
-### Bonus Fact
-Coaching complements other types of startup support by focusing on personal and strategic development rather than purely operational advice. It is particularly valuable during pivotal growth stages or times of transition, offering a safe environment to explore options and build confidence. Incubators frequently integrate coaching into their programs to accelerate founder development and startup success. Data surrounding coaches provided to startups is an important part of the UBI Benchmark.
-## Advisor, Coach or Mentor?
-Mentors develop long-term, holistic relationships focused on growth; coaches facilitate structured, performance-driven improvement; and advisors offer specialized, issue-focused guidance. Many startups benefit from engaging all three types at different stages and needs of the venture.
-## Related Articles
-- Advisor
-- Mentor
-- Startup Incubator
-- Angel Investor or Angel Group
-- Ecosystem Builder
+## Summary
 
-## Source
+A coach helps founders set goals, improve decision-making, and stay accountable through a structured, time-bound process focused on personal and business development.
+
+## Definition
+
+Coaching in the startup context is usually centered on clarity, performance, and follow-through rather than specialist subject-matter advice alone. Coaches work with entrepreneurs to define objectives, test assumptions, and build the habits and confidence needed to move a venture forward.
+
+## Why It Matters
+
+Founders often need more than information. They also need structure, reflection, and accountability. Coaching helps entrepreneurs make measurable progress during uncertain or high-pressure periods, especially when they are navigating pivotal growth moments or trying to improve leadership capability.
+
+## Industry Context
+
+Incubators and accelerators frequently include coaching alongside mentorship and advisory support because each serves a different role. Coaches are typically more process-oriented than mentors and less narrowly specialist than advisors. In benchmarking contexts, the availability of qualified coaching support is also a meaningful signal of program quality and founder development capacity.
+
+## Related Terms
+
+- [Advisor](advisor.md)
+- [Mentor](mentor.md)
+- [Business Incubator](../organizational-types-and-methodologies/business-incubator.md)
+- [Angel Investor or Angel Group](../financial-terms/angel-investor-or-angel-group.md)
+- [Ecosystem Builder](ecosystem-builder.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/key-players/coach

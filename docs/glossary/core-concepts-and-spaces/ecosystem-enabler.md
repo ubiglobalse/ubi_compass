@@ -1,14 +1,28 @@
 # Ecosystem Enabler
 
-An ecosystem enabler is an individual, organization, or institution that supports the growth, efficiency, and sustainability of a startup or innovation ecosystem. Acting as facilitators, these enablers provide the infrastructure, connections, and resources that allow entrepreneurs, investors, corporations, universities, and policymakers to collaborate effectively and drive innovation.
-## Did You Know
-Ecosystem enablers operate across multiple levels of the innovation landscape by connecting key stakeholders and aligning shared objectives. They organize events, establish partnerships, provide access to funding, and advocate for supportive policies. By identifying gaps and linking resources, enablers strengthen the overall functionality of the ecosystem, fostering inclusive, dynamic, and sustainable growth.
-## Related Articles
-- Ecosystem Builder
-- Ecosystem Orchestrator
-- Innovation Ecosystem
+## Summary
 
-## Source
+An ecosystem enabler is a person or organization that helps an innovation ecosystem function better by connecting participants, reducing friction, and expanding access to resources or support.
+
+## Definition
+
+Ecosystem enablers support the growth and sustainability of startup communities by creating the conditions that help other actors collaborate effectively. They may provide infrastructure, convening, partnerships, policy support, introductions, or access to expertise and capital.
+
+## Why It Matters
+
+Ecosystems often fail not because the right actors are absent, but because they are poorly connected. Enablers help close those gaps, strengthen coordination, and make the broader system more useful to founders and other stakeholders.
+
+## Industry Context
+
+These actors often work behind the scenes across multiple levels of the innovation landscape. Their role can include organizing networks, facilitating events, advocating for supportive conditions, and linking the people or institutions that need to work together for innovation to scale.
+
+## Related Terms
+
+- [Ecosystem Builder](../key-players/ecosystem-builder.md)
+- [Ecosystem Orchestrator](ecosystem-orchestrator.md)
+- [Innovation Ecosystem](innovation-ecosystem.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/core-concepts-and-spaces/ecosystem-enabler

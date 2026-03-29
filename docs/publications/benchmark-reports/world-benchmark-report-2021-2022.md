@@ -6,7 +6,16 @@ The UBI Global World Benchmark Report 2021-2022 is the sixth edition of the orga
 
 This edition is especially notable because it introduces Environmental, Social, and Governance metrics, expanding the study beyond traditional operational and economic performance.
 
-## Key Sections
+## Publication Details
+
+- Publisher: UBI Global
+- Published date: Not specified in the migrated source
+- Study cycle: 2021 - 2022
+- Region: Global
+- Content type: Benchmark report
+- Reviewed: 2026-03-29
+
+## Highlights
 
 - Executive summary and methodology overview
 - Program types, groups, and research partners
@@ -21,7 +30,7 @@ Official UBI Global explainer for the 2021-2022 World Benchmark Study applicatio
 
 {% embed url="https://www.youtube.com/watch?v=WwIrhltuiX8" %}
 
-## Access Options
+## Access the Report
 
 - [UBI Academy](https://ubi-global.com/academy)
 - [UBI Global Membership](https://ubi-global.com/membership)
@@ -32,7 +41,7 @@ Official UBI Global explainer for the 2021-2022 World Benchmark Study applicatio
 - [World Benchmark Report 2019 - 2020](world-benchmark-report-2019-2020.md)
 - [Environmental, Social & Governance (Sustainable Development Goals/SDGs)](../../glossary/esg/environmental-social-and-governance-sdg/README.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/publications-and-reports/benchmark-and-ranking-reports/world-benchmark-report-2021-2022
