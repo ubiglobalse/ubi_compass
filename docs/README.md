@@ -6,6 +6,8 @@ Use Compass when you need to understand a term, benchmark metric, or publication
 
 GitBook is the publishing layer. This repository is the canonical source of truth for approved Markdown content, media references, and information architecture.
 
+Compass is designed to support public discovery, thought leadership, and practical next steps for teams exploring benchmark, learning, and ecosystem-performance questions.
+
 ## Sections
 
 - [Glossary of Terms](glossary/README.md)
@@ -17,3 +19,9 @@ GitBook is the publishing layer. This repository is the canonical source of trut
 - Start in the glossary if you need a definition, role, methodology, or concept.
 - Start in KPIs & Metrics if you want to understand how incubators and accelerators measure performance.
 - Start in Publications & Reports if you are looking for benchmark studies, rankings, case studies, or ecosystem research.
+
+## Next Step With UBI Global
+
+- Use Compass first if you need shared language and context before acting.
+- [Explore UBI Academy](https://ubi-global.com/academy?utm_source=compass&utm_medium=gitbook&utm_campaign=compass-home)
+- [Explore UBI Global Membership](https://ubi-global.com/membership?utm_source=compass&utm_medium=gitbook&utm_campaign=compass-home)

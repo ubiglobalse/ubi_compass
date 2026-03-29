@@ -2,7 +2,7 @@
 
 ## Summary
 
-Two to four sentences explaining the publication and why it matters.
+Two to four sentences explaining the publication and why it matters. Write this so it can also stand alone in search results, GitBook snippets, or link previews.
 
 ## Publication Details
 
@@ -34,3 +34,10 @@ Use when there is a launch talk, interview, or report walkthrough.
 ## Full Report
 
 [Open report](https://example.com)
+
+## Next Step
+
+Use when the publication naturally supports a UBI Global next action such as academy, membership, benchmark participation, or related research.
+
+- Internal next step:
+- UBI Global next step:

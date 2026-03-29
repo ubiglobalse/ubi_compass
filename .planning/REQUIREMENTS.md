@@ -59,12 +59,12 @@ V1 is a public knowledge platform for the startup incubator and accelerator indu
 | DISC-01 | Phase 2 | Complete |
 | DISC-02 | Phase 2 | Complete |
 | DISC-03 | Phase 2 | Complete |
-| CONT-01 | Phase 3 | Pending |
-| CONT-02 | Phase 3 | Pending |
-| CONT-03 | Phase 3 | Pending |
-| CONT-04 | Phase 3 | Pending |
+| CONT-01 | Phase 3 | Complete |
+| CONT-02 | Phase 3 | Complete |
+| CONT-03 | Phase 3 | Complete |
+| CONT-04 | Phase 3 | Complete |
 | IA-01 | Phase 1 | Complete |
-| IA-02 | Phase 3 | Pending |
+| IA-02 | Phase 3 | Complete |
 | IA-03 | Phase 4 | Pending |
 | LEAD-01 | Phase 4 | Pending |
 | LEAD-02 | Phase 4 | Pending |

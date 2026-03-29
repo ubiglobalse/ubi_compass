@@ -4,13 +4,13 @@
 
 - **Project:** Compass
 - **Core value:** Users can quickly find and confidently understand authoritative incubator and accelerator terminology and related industry intelligence without insider knowledge.
-- **Current focus:** Phase 4 planning and follow-through after Phase 3 readability completion
+- **Current focus:** Phase 4 execution across organic discovery, contextual CTAs, and baseline measurement readiness
 
 ## Current Position
 
-- **Current phase:** 4 - Searchable Thought Leadership Experience
-- **Current plan:** Phase 3 is complete, the live repo-backed GitBook routes are resolving, and the next step is Phase 4 planning around search, discovery, and public-facing conversion quality
-- **Overall status:** Phase 4 ready to start
+- **Current phase:** 4 - Public Reach and Lead Capture
+- **Current plan:** Phase 4 is active with a repo-native plan centered on stronger landing pages, contextual UBI Global next steps, and measurement guidance that fits the GitBook publishing model
+- **Overall status:** Phase 4 in progress
 - **Progress:** 3 / 4 phases complete
 
 ## Performance Metrics
@@ -34,6 +34,8 @@
 | 2026-03-29 | KPI detail pages should be renamed and organized around canonical metric names, not imported legacy slugs | The original GitBook export collapsed many KPI pages under misleading Jobs created and sustained paths |
 | 2026-03-29 | Publications should be grouped by report type rather than inherited mixed GitBook categories | Readers need cleaner browse paths for benchmark reports, rankings reports, case studies, and ecosystem reports |
 | 2026-03-29 | Phase 3 will improve readability through editorial structure and standards rather than a custom frontend layer | This repo publishes to GitBook and should optimize the reading experience through content design first |
+| 2026-03-29 | Phase 4 will improve reach through editorial signals, CTA placement, and tracking conventions rather than a custom acquisition surface | GitBook remains the delivery layer and the repo should use the levers it can reliably control |
+| 2026-03-29 | The default editorial operating model will be Shared Drive + Google Docs + Google Sheets | This gives non-technical editors a comfortable workflow while keeping repo Markdown as the canonical publishable source |
 
 ## Assumptions
 
@@ -42,12 +44,13 @@
 | 2026-03-29 | Search should span glossary, KPI/metric, and report/publication content | Confirm in live GitBook verification follow-up |
 | 2026-03-29 | GitBook Git Sync remains the preferred publishing mechanism | Verify in the deferred live GitBook sync pass |
 | 2026-03-29 | Lead capture will be contextual rather than aggressively gated | Confirm during Phase 4 planning |
+| 2026-03-29 | CTA click attribution may need to rely partly on tagged outbound links because analytics control lives outside the repo | Confirm during Phase 4 setup with the live GitBook space |
 
 ## Todos
 
-- Define the concrete Phase 4 plan for search quality, discovery flow, and lead-generation effectiveness
-- Run a lightweight GitBook-native search and media-render follow-up to confirm search snippets and embeds behave as expected in the live UI
-- Keep using the repo-backed GitBook structure as the canonical path for future Compass improvements
+- Complete the first Phase 4 pass on home, section landing pages, and benchmark-oriented detail pages
+- Configure or verify analytics, indexing, and search-console baselines in the live GitBook environment
+- Run a lightweight live QA pass for search snippets, CTA rendering, and outbound-link behavior after the Phase 4 changes publish
 
 ## Blockers
 
@@ -82,4 +85,6 @@
 - Repo-side Phase 3 QA passed on 2026-03-29 with clean formatting checks, clean local Markdown link checks, and a full KPI summary-pattern audit
 - After pushing `main` on 2026-03-29, live GitBook route checks passed for representative repo-backed glossary, KPI, and publication pages, confirming that the rebuilt structure is publishing under the new paths
 - Phase 3 was closed on 2026-03-29 after repo-side QA, KPI normalization completion, and successful live route-and-content spot checks
-- Recommended next command: `/gsd:plan-phase 4`
+- Phase 4 planning and first implementation slice started on 2026-03-29 with a dedicated phase plan, a growth-and-measurement playbook, editorial template updates, and the first high-intent CTA rollout
+- The team selected Shared Drive + Google Docs + Google Sheets on 2026-03-29 as the default editorial workflow, and the repo now includes a Google Workspace workflow plus a tracker specification
+- Recommended next command: `/gsd:execute-phase 4`

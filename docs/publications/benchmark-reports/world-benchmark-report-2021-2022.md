@@ -32,8 +32,13 @@ Official UBI Global explainer for the 2021-2022 World Benchmark Study applicatio
 
 ## Access the Report
 
-- [UBI Academy](https://ubi-global.com/academy)
-- [UBI Global Membership](https://ubi-global.com/membership)
+- [UBI Academy](https://ubi-global.com/academy?utm_source=compass&utm_medium=gitbook&utm_campaign=world-benchmark-report-2021-2022)
+- [UBI Global Membership](https://ubi-global.com/membership?utm_source=compass&utm_medium=gitbook&utm_campaign=world-benchmark-report-2021-2022)
+
+## Next Step With UBI Global
+
+- Read [Sales Revenue](../../kpis/ubi-global-benchmark-kpis/sales-revenue.md) or the rest of the [UBI Global Benchmark KPIs](../../kpis/ubi-global-benchmark-kpis/README.md) if you want to connect the report to the KPI framework.
+- Explore [UBI Global Membership](https://ubi-global.com/membership?utm_source=compass&utm_medium=gitbook&utm_campaign=world-benchmark-report-2021-2022) if your organization wants deeper benchmark participation and peer context.
 
 ## Related Publications
 

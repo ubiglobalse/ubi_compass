@@ -4,6 +4,8 @@
 
 Media needs to be easy for editors to add without creating chaos in the content tree.
 
+Use `editorial/GOOGLE-WORKSPACE-WORKFLOW.md` for where working image and video files should live in Shared Drive before they become publishable assets.
+
 ## Recommended Pattern
 
 - Store images in `docs/media/<section>/<slug>/`

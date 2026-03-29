@@ -31,6 +31,11 @@ Sales revenue is widely recognized as a direct indicator of startup viability, p
 - [Jobs Created and Sustained](jobs-created-and-sustained.md)
 - [Graduates](graduates.md)
 
+## Next Step
+
+- Read [World Benchmark Report 2021 - 2022](../../publications/benchmark-reports/world-benchmark-report-2021-2022.md) if you want to see how this KPI fits into UBI Global's broader benchmark framing.
+- Explore [UBI Global Membership](https://ubi-global.com/membership?utm_source=compass&utm_medium=gitbook&utm_campaign=sales-revenue) if you want deeper benchmark context for your own organization.
+
 ## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29

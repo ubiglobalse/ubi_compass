@@ -38,6 +38,12 @@ Built on the World Benchmark Study, the report focuses on value creation, startu
 - Report asset label preserved from the migrated source: `WorldRankingsReport2021-2022`
 - Direct report URL was not preserved in the migrated source page
 
+## Next Step With UBI Global
+
+- Read [World Benchmark Report 2021 - 2022](../benchmark-reports/world-benchmark-report-2021-2022.md) if you want the KPI and methodology context behind the rankings.
+- Explore [UBI Academy](https://ubi-global.com/academy?utm_source=compass&utm_medium=gitbook&utm_campaign=world-rankings-report-2021-2022)
+- Explore [UBI Global Membership](https://ubi-global.com/membership?utm_source=compass&utm_medium=gitbook&utm_campaign=world-rankings-report-2021-2022)
+
 ## Related Publications
 
 - [World Rankings Report 2017 - 2018](world-rankings-report-2017-2018.md)

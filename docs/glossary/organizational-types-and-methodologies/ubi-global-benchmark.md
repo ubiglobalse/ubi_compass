@@ -1,12 +1,38 @@
 # UBI Global Benchmark
 
-In 2025, UBI Global's Benchmark has evolved from a biennial study activity to an on-demand, AI-driven tool for member organizations. The UBI Global Benchmark is a third-party assessment, a relative benchmark that compares your data to the organization with the best performance in that category. It’s the gap between that organization’s metric and your organization that provides value to you as you look for ways to improve your impact and performance.
-When it comes to the UBI Global Benchmark, organizations are benchmarked against the global pool of data because we believe that there is a lot of value and learning that comes from everyone as a whole industry. For the UBI Ranking, organizations are grouped within their categories.
-So, when it comes to the UBI Global Benchmark, this is a tool that can be used when members wish to develop insights that are valuable when shared with stakeholders. The UBI Global Ranking is free for UBI Global members to participate in and, unlike the benchmark, is a time-bound activity with a set data collection period. Non-members may also participate in the UBI Global Ranking for a one-time fee.
-Related link:
-- UBI Global Ranking
+## Summary
 
-## Source
+The UBI Global Benchmark is UBI Global's comparative assessment framework for incubators and accelerators. It helps organizations understand how their performance compares with peer programs and best-in-class benchmarks across ecosystem value, startup outcomes, ESG, and program operations.
+
+## Page Details
+
+- Content type: Glossary term
+- Reviewed: 2026-03-29
+
+## Definition
+
+In Compass, the UBI Global Benchmark refers to a structured third-party benchmarking approach that compares an organization's performance against the strongest available performance in each category rather than treating every program as identical.
+
+## Why It Matters
+
+Benchmarking gives leaders a clearer basis for strategy, communication, and improvement. It helps incubators and accelerators explain where they are strong, where they lag, and which KPI areas deserve attention when speaking with boards, funders, universities, governments, or partners.
+
+## Industry Context
+
+UBI Global's benchmark work historically appeared as a biennial study and has also been described as an on-demand, AI-driven capability for member organizations. In practical terms, the benchmark and the ranking are related but not identical. Benchmarking emphasizes comparative performance insight and improvement, while rankings emphasize recognition within peer groups and time-bound participation cycles.
+
+## Next Step
+
+- Internal next step: [World Benchmark Report 2021 - 2022](../../publications/benchmark-reports/world-benchmark-report-2021-2022.md)
+- UBI Global next step: [Explore UBI Global Membership](https://ubi-global.com/membership?utm_source=compass&utm_medium=gitbook&utm_campaign=ubi-global-benchmark)
+
+## Related Terms
+
+- [UBI Ranking](ubi-ranking.md)
+- [Sales Revenue](../../kpis/ubi-global-benchmark-kpis/sales-revenue.md)
+- [Jobs Created and Sustained](../../kpis/ubi-global-benchmark-kpis/jobs-created-and-sustained.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/organizational-types-and-methodologies/ubi-global-benchmark

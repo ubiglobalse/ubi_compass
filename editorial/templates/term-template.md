@@ -2,7 +2,7 @@
 
 ## Summary
 
-One to three sentences explaining the term in plain language.
+One to three sentences explaining the term in plain language. Write this so it can also stand alone in search results, GitBook snippets, or link previews.
 
 ## Page Details
 
@@ -20,6 +20,13 @@ Explain why the term matters in the incubator and accelerator context.
 ## Industry Context
 
 Add practical context, examples, or nuance.
+
+## Next Step
+
+Add only when there is a clear and non-intrusive next step for the reader.
+
+- Internal next step:
+- UBI Global next step:
 
 ## Visual Aid
 
