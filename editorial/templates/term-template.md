@@ -4,6 +4,11 @@
 
 One to three sentences explaining the term in plain language.
 
+## Page Details
+
+- Content type: Glossary term
+- Reviewed:
+
 ## Definition
 
 Provide the formal or working definition.

@@ -2,6 +2,8 @@
 
 Foundational concepts for understanding incubators, accelerators, ecosystems, and the collaborative structures around them.
 
+Start here if you are trying to understand the big-picture language behind ecosystem design, partnership structures, and how innovation communities are organized.
+
 ## Pages
 
 - [Cluster Strategy](cluster-strategy.md)

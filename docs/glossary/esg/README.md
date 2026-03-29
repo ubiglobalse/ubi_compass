@@ -2,6 +2,8 @@
 
 Environmental, social, governance, and inclusion concepts that increasingly shape program design and reporting.
 
+Start here if you are exploring sustainability, inclusion, governance, or how incubators and accelerators measure responsible program outcomes.
+
 ## Pages
 
 - [Climate Strategy](climate-strategy.md)

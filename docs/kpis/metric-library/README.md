@@ -2,6 +2,8 @@
 
 This index provides a quick scan of the KPI concepts used throughout Compass and points readers to the canonical detailed definitions in the benchmark KPI section.
 
+Use this page when you know you are looking for a metric but want a lighter-weight browse step before opening a detailed KPI definition page.
+
 ## Included Metrics
 
 - [ESG Framework Adoption](../ubi-global-benchmark-kpis/esg-framework-adoption.md)

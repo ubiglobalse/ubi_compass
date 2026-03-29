@@ -2,6 +2,8 @@
 
 Long-form benchmark studies that explain the methodology, landscape, and comparative findings behind UBI Global's research.
 
+Use this section when you want the most methodology-heavy reporting, comparative benchmarking context, and deeper narrative around the benchmark framework.
+
 ## Publications
 
 - [World Benchmark Report 2017 - 2018](world-benchmark-report-2017-2018.md)

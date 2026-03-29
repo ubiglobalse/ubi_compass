@@ -1,23 +1,33 @@
 # In-state Applications
 
-## In-state Applications
-### Metric Definition: In-state Applications
-Number of applications received from startups located within the program’s state or region.
-Definition
+Number of applications received from startups located within the program's state or region.
+
+## Definition
+
 Measures local program demand and reputation.
-Purpose
-To assess program recognition and attractiveness to regional entrepreneurs.
-Rationale
+
+## Purpose
+
+Assesses program recognition and attractiveness to regional entrepreneurs.
+
+## Rationale
+
 High local application rates can indicate program quality and ecosystem integration.
-Advantages
-- Simple proxy for reputation among local startups.
+
+## Advantages
+
+- Offers a simple proxy for reputation among local startups.
 - Relevant for ecosystem development strategies.
-Limitations
+
+## Limitations
+
 - Influenced by population size and demographics.
-- May be affected by program admission policies restricting regional access.
-Related articles:
-- Alumni Engagement
-- Out-of-State Applications
+- May be affected by program admission policies that restrict regional access.
+
+## Related Articles
+
+- [Alumni Engagement](alumni-engagement.md)
+- [Out-of-State Applications](out-of-state-applications.md)
 
 ## Source
 

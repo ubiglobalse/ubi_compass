@@ -1,18 +1,33 @@
 # Client Startups Accepted
 
-Client Startups Accepted Client Startups Accepted Metric Definition: Client Startups Accepted Number of client startups accepted into the program in a given time frame.
-Definition: Quantifies the inflow of startup participants attracted to the program.
-Purpose: To evaluate the program’s attractiveness and ability to source entrepreneurial talent.
-Rationale: Attracting startups enriches the local entrepreneurial ecosystem and drives innovation.
-### Advantages
+Number of client startups accepted into the program in a given time frame.
+
+## Definition
+
+Quantifies the inflow of startup participants attracted to the program.
+
+## Purpose
+
+Evaluates the program's attractiveness and ability to source entrepreneurial talent.
+
+## Rationale
+
+Attracting startups enriches the local entrepreneurial ecosystem and drives innovation.
+
+## Advantages
+
 - Simple to track and measure.
 - Indicates program demand.
-### Limitations
-- Does not assess quality or selectiveness of startups.
-- Larger intake may dilute program resources.
-Related articles:
-- Self-Generated Revenue
-- Graduate Retention
+
+## Limitations
+
+- Does not assess the quality or selectiveness of startups.
+- A larger intake may dilute program resources.
+
+## Related Articles
+
+- [Self-Generated Revenue](self-generated-revenue.md)
+- [Graduate Retention](graduate-retention.md)
 
 ## Source
 

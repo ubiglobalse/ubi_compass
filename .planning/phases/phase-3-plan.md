@@ -1,0 +1,54 @@
+# Phase 3 Plan - Readable Intelligence Experience
+
+## Goal
+
+Compass should make glossary terms, KPI definitions, and publication pages easy to read, easy to trust, and easy to understand across desktop and mobile reading contexts.
+
+## Technical Decisions
+
+- **Reading model:** Keep GitBook as the delivery layer and improve readability through structured Markdown rather than custom UI work
+- **Template-first execution:** Use consistent page patterns for glossary, KPI, and publication pages so readers know what to expect
+- **Summary-first layout:** Lead with concise summaries before long-form detail, metadata, or media
+- **Freshness signals:** Add visible published or updated date cues where available so readers can judge recency and authority
+- **Editorial scope:** Prioritize the highest-value public pages first, then scale the pattern across the rest of the library
+
+## Waves
+
+### Wave 1 - Readability Standards
+
+- Define the required page structure for glossary, KPI, and publication content
+- Add freshness guidance for published or reviewed dates
+- Align editorial templates and workflow notes with the Phase 3 reading model
+
+### Wave 2 - Glossary Reading Pass
+
+- Normalize priority glossary pages to a summary, definition, importance, and context structure
+- Reduce walls of text and ambiguous headings inherited from migration work
+- Preserve related-term pathways that support continued exploration
+
+### Wave 3 - KPI and Publication Reading Pass
+
+- Align KPI pages to a consistent summary-first structure with clear interpretation and why-it-matters framing
+- Align publication pages to a consistent summary, publication details, highlights, and access pattern
+- Improve recency and authority cues where source dates are available
+
+### Wave 4 - Reading QA
+
+- Spot-check representative glossary, KPI, and publication pages in GitBook
+- Verify pages remain legible on desktop and mobile
+- Update planning state and capture any remaining readability gaps before Phase 4
+
+## Acceptance Mapping
+
+- `CONT-01`: Glossary terms read clearly and provide practical context
+- `CONT-02`: KPI pages explain what the metric means and why it matters
+- `CONT-03`: Publication pages expose summary information and the primary destination for the report
+- `CONT-04`: Freshness indicators are visible where source dates or review dates are available
+- `IA-02`: The reading experience remains legible and usable across desktop and mobile
+
+## Expected Output
+
+- Editorial standards clearly define what a readable Compass page looks like
+- Templates and workflow guidance support consistent execution across content types
+- Priority glossary, KPI, and publication pages are easier to scan and understand
+- Phase 3 can be validated through a focused GitBook reading QA pass instead of ad hoc review

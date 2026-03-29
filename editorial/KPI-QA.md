@@ -8,6 +8,12 @@ This report tracks the KPI cleanup decisions made during the structural rebuild 
 - The rebuild renamed each KPI page to its actual metric name so the repo and GitBook sidebar reflect the real content.
 - Several KPI pages still need editorial proofreading because the import flattened some GitBook block formatting into awkward paragraphs.
 
+## Cleanup completed on 2026-03-29
+
+- All canonical KPI pages were normalized into a consistent Markdown structure with clear `Definition`, `Purpose`, `Rationale`, `Advantages`, `Limitations`, and `Related Articles` sections where source content supported them.
+- Repeated import artifacts such as duplicated metric titles, stray asset labels, and flattened related-article text were removed from the KPI detail pages.
+- Related article references were converted into working local Markdown links so the KPI set now behaves more like a connected reference library.
+
 ## Canonical KPI map
 
 | Canonical KPI | Current file | Source file | Notes |

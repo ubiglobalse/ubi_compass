@@ -1,21 +1,33 @@
 # Self-Generated Revenue
 
-## Metric Definition: Self-Generated Revenue
 Revenue generated independently by the program through its own activities, excluding external grants or funding.
-Definition
-Measures the financial sustainability and independence of the program’s operations.
-Purpose
-To assess the program’s ability to fund itself and reduce reliance on external sources.
-Rationale
+
+## Definition
+
+Measures the financial sustainability and independence of the program's operations.
+
+## Purpose
+
+Assesses the program's ability to fund itself and reduce reliance on external sources.
+
+## Rationale
+
 Programs with strong self-generated revenue demonstrate long-term operational stability.
-Advantages
+
+## Advantages
+
 - Reflects program autonomy and economic health.
 - Facilitates scaling without external constraints.
-Limitations
+
+## Limitations
+
 - May not be applicable to all program types.
 - Definitions can be ambiguous regarding sources of revenue.
-## Related
-Graduates Client Startups Accepted
+
+## Related Articles
+
+- [Graduates](graduates.md)
+- [Client Startups Accepted](client-startups-accepted.md)
 
 ## Source
 

@@ -2,6 +2,8 @@
 
 Terms related to emerging technologies, digital operating models, and the next generation of startup-enabling infrastructure.
 
+Start here if the concept you need sounds technology-led, digitally transformative, or tied to new operating models for innovation programs.
+
 ## Pages
 
 - [Agentic AI](agentic-ai.md)

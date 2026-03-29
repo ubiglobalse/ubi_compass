@@ -2,6 +2,8 @@
 
 People, roles, and stakeholder types that shape startup programs and innovation ecosystems.
 
+Start here if you need to identify who does what across entrepreneurship programs, mentor networks, corporate partners, and founder communities.
+
 ## Pages
 
 - [Advisor](advisor.md)

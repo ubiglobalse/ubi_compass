@@ -82,6 +82,6 @@ Compass v1 should launch as a public, searchable industry-intelligence destinati
 | Phase | Name | Status |
 |-------|------|--------|
 | 1 | Public Foundation | Complete |
-| 2 | Discovery and Navigation | Pending |
-| 3 | Readable Intelligence Experience | Pending |
+| 2 | Discovery and Navigation | Complete |
+| 3 | Readable Intelligence Experience | In Progress |
 | 4 | Public Reach and Lead Capture | Pending |

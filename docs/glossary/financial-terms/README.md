@@ -2,6 +2,8 @@
 
 Funding, financing, ownership, and capital-formation terms commonly used across startup support programs.
 
+Start here if the language you need involves fundraising, investment structures, exits, or how startups and support organizations access capital.
+
 ## Pages
 
 - [Angel Investor or Angel Group](angel-investor-or-angel-group.md)

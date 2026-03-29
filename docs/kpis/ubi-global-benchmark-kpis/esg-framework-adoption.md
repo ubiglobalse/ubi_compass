@@ -1,18 +1,31 @@
 # ESG Framework Adoption
 
-## Metric Definition: ESG Framework Adoption
-Adoption of an ESG framework or set of ESG standards by the Organization
-Definition:
-Measures if the program integrates formal ESG policies or frameworks into its operations.
-Purpose:
-To illustrate program commitment to measurable and systematic ESG integration.
-Rationale:
+Adoption of an ESG framework or set of ESG standards by the organization.
+
+## Definition
+
+Measures whether the program integrates formal ESG policies or frameworks into its operations.
+
+## Purpose
+
+Illustrates the program's commitment to measurable and systematic ESG integration.
+
+## Rationale
+
 Framework adoption demonstrates intentional ESG alignment across program activities.
-Provides structured approach to ESG implementation.
-May be superficial or used for "ESG-washing" without meaningful follow-through.
-Related articles:
-- ESG Network Affiliation
-- DEI Stats
+
+## Advantages
+
+- Provides a structured approach to ESG implementation.
+
+## Limitations
+
+- Adoption can be superficial or used for "ESG-washing" without meaningful follow-through.
+
+## Related Articles
+
+- [ESG Network Affiliation](../../glossary/esg/esg-network-affiliation.md)
+- [DEI Stats](../../glossary/esg/dei-stats.md)
 
 ## Source
 

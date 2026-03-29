@@ -2,6 +2,8 @@
 
 These are the canonical KPI definition pages for Compass. Each page maps to one metric and is named after the metric itself rather than the broken source slug used in the original GitBook export.
 
+Use this section when you need the full explanation of what a metric means, how it is framed in the UBI Global benchmark context, and how it relates to nearby measures.
+
 ## KPI Definitions
 
 - [ESG Framework Adoption](esg-framework-adoption.md)

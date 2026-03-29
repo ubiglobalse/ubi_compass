@@ -1,22 +1,33 @@
 # 1-Year Survival Rate
 
-## Metric Definition: 1-Year Survival Rate
 Percentage of startups surviving one year post-graduation.
-### Definition
+
+## Definition
+
 Measures the early-stage viability of program graduates.
-### Purpose
-To evaluate short-term startup success and program effectiveness.
-### Rationale
+
+## Purpose
+
+Evaluates short-term startup success and program effectiveness.
+
+## Rationale
+
 High survival rates suggest strong program preparation and support.
-### Advantages
+
+## Advantages
+
 - Widely accepted benchmark of early startup health.
 - Easy to quantify.
-### Limitations
-- Debate exists about valuing survival vs. “fail fast” philosophies.
+
+## Limitations
+
+- Debate exists about valuing survival versus "fail fast" philosophies.
 - May not indicate long-term success.
-Related:
-- Sponsorship Attraction
-- 5-Year Survival Rate
+
+## Related Articles
+
+- [Sponsorship Attraction](sponsorship-attraction.md)
+- [5-Year Survival Rate](five-year-survival-rate.md)
 
 ## Source
 

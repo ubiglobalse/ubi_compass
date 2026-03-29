@@ -1,6 +1,8 @@
 # Glossary of Terms
 
-Compass terminology is organized as a browsable reference library so editors and readers can find concepts by theme, not by the shape of the old GitBook import.
+Compass terminology is organized as a browsable reference library so readers can find concepts by theme instead of needing to know the exact term or the shape of the old GitBook import.
+
+This section is the best starting point when you want definitions, industry context, and related language used across incubators, accelerators, ecosystem builders, and startup support programs.
 
 ## Categories
 
@@ -12,3 +14,10 @@ Compass terminology is organized as a browsable reference library so editors and
 - [Organizational Types and Methodologies](organizational-types-and-methodologies/README.md)
 - [Performance Tracking and Metrics](performance-tracking-and-metrics/README.md)
 - [ESG](esg/README.md)
+
+## Browse Tips
+
+- Use [Core Concepts and Spaces](core-concepts-and-spaces/README.md) for ecosystem and collaboration language.
+- Use [Key Players](key-players/README.md) for roles such as founders, mentors, and accelerators.
+- Use [Innovation Terms and Practices](innovation-terms-and-practices/README.md) for product, experimentation, and growth terminology.
+- Use [Performance Tracking and Metrics](performance-tracking-and-metrics/README.md) when a term sounds measurement-oriented.

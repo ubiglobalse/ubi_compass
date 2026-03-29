@@ -1,20 +1,33 @@
 # Graduate Retention
 
-Graduate Retention Metric Definition: Graduate Retention Number of program graduates who remain active contributors within the local ecosystem.
-### Definition
+Number of program graduates who remain active contributors within the local ecosystem.
+
+## Definition
+
 Measures how many alumni stay in the region, continuing to impact the local economy and innovation environment.
-### Purpose
-To gauge the program’s success in retaining talent that benefits the ecosystem long-term.
-### Rationale
+
+## Purpose
+
+Gauges the program's success in retaining talent that benefits the ecosystem over the long term.
+
+## Rationale
+
 Retention indicates the enduring positive impact of the program beyond graduation.
-### Advantages
+
+## Advantages
+
 - Relevant for regional economic development goals.
-- Highlights sustainability of human capital gains.
+- Highlights the sustainability of human capital gains.
+
+## Limitations
+
 - External factors can affect retention independent of program quality.
 - Measuring contribution qualitatively remains challenging.
-Related articles:
-- Client Startups Accepted
-- Services Offered
+
+## Related Articles
+
+- [Client Startups Accepted](client-startups-accepted.md)
+- [Services Offered](services-offered.md)
 
 ## Source
 

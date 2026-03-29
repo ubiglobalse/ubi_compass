@@ -10,6 +10,7 @@ Two to four sentences explaining the publication and why it matters.
 - Published date:
 - Region:
 - Content type:
+- Reviewed:
 
 ## Key Takeaways
 

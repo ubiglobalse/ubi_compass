@@ -1,19 +1,33 @@
 # 5-Year Survival Rate
 
-## Metric Definition: 5-Year Survival Rate
 Percentage of startups surviving five years after program graduation.
-Definition: Measures medium-term startup viability and sustainability.
-Purpose: To assess the deeper impact on entrepreneurial success.
-Rationale: Longer-term survival is more indicative of lasting startup success.
-Advantages:
+
+## Definition
+
+Measures medium-term startup viability and sustainability.
+
+## Purpose
+
+Assesses deeper impact on entrepreneurial success.
+
+## Rationale
+
+Longer-term survival is more indicative of lasting startup success.
+
+## Advantages
+
 - Valuable for demonstrating sustained impact.
 - Provides a more stable view of outcomes.
-Limitations:
-- Long measurement horizon limits applicability to young programs.
+
+## Limitations
+
+- The long measurement horizon limits applicability to young programs.
 - Can be affected by external economic cycles.
-Related articles:
-- 1-Year Survival Rate
-- High-Growth Enterprises
+
+## Related Articles
+
+- [1-Year Survival Rate](one-year-survival-rate.md)
+- [High-Growth Enterprises](high-growth-enterprises.md)
 
 ## Source
 

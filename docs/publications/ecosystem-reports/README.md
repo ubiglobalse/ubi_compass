@@ -2,6 +2,8 @@
 
 Research and impact studies focused on specific regions, partners, and ecosystem-building initiatives.
 
+Use this section when you want geographically grounded or partner-specific research about ecosystem development and innovation impact.
+
 ## Publications
 
 - [Activating Entrepreneurship in Pakistan - Impact Study with PEP Foundation](activating-entrepreneurship-in-pakistan-impact-study-with-pep-foundation.md)

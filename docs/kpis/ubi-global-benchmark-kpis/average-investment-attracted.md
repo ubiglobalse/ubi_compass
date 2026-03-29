@@ -1,18 +1,33 @@
 # Average Investment Attracted
 
-Average Investment Attracted Metric Definition: Average Investment Attracted Average financing amount secured per startup through program support.
-Definition: Measures the median size of investments attracted by client startups.
-Purpose: To assess the quality and scalability potential of program-supported startups.
-Rationale: Higher average investments may indicate stronger investor confidence.
-Advantages:
-- Provides nuanced insight beyond total investment sum.
+Average financing amount secured per startup through program support.
+
+## Definition
+
+Measures the median size of investments attracted by client startups.
+
+## Purpose
+
+Assesses the quality and scalability potential of program-supported startups.
+
+## Rationale
+
+Higher average investments may indicate stronger investor confidence.
+
+## Advantages
+
+- Provides nuanced insight beyond the total investment sum.
 - Highlights variance in startup funding success.
-Limitations:
-- Sensitive to outliers skewing averages.
-- May not reflect program goals if survival or impact prioritized over size.
-Related articles:
-- Total Investment Attracted
-- Seed Funding Attraction
+
+## Limitations
+
+- Sensitive to outliers that can skew averages.
+- May not reflect program goals if survival or impact is prioritized over size.
+
+## Related Articles
+
+- [Total Investment Attracted](total-investment-attracted.md)
+- [Seed Funding Attraction](seed-funding-attraction.md)
 
 ## Source
 

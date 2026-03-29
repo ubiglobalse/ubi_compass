@@ -1,22 +1,33 @@
 # Alumni Engagement
 
-## Metric Definition: Alumni Engagement
-Level of ongoing interaction and support between program alumni and the incubator/accelerator.
-Definition
+Level of ongoing interaction and support between program alumni and the incubator or accelerator.
+
+## Definition
+
 Measures the strength of peer networks and support systems post-graduation.
-Purpose
-To evaluate lasting community ties and continued ecosystem contribution by alumni.
-Rationale
+
+## Purpose
+
+Evaluates lasting community ties and continued ecosystem contribution by alumni.
+
+## Rationale
+
 Active alumni networks aid knowledge sharing and entrepreneurial resilience.
-Advantages
+
+## Advantages
+
 - Indicates program sustainability beyond direct involvement.
 - Supports retention and ecosystem strength.
-Limitations
+
+## Limitations
+
 - The definition of engagement varies widely.
-- Difficult to quantify qualitative aspects of peer support.
-Related articles:
-- Events
-- In-state Applications
+- It can be difficult to quantify qualitative aspects of peer support.
+
+## Related Articles
+
+- [Events](events.md)
+- [In-state Applications](in-state-applications.md)
 
 ## Source
 

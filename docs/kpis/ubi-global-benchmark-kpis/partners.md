@@ -1,18 +1,28 @@
 # Partners
 
-## Metric Definition: Partners
 Number of business development partners engaged or facilitated by the program.
-### Definition
+
+## Definition
+
 Measures success in connecting startups with external collaborators and ecosystem players.
-To support network-building essential for startup growth and ecosystem health.
-### Rationale
+
+## Purpose
+
+Supports the network-building that is essential for startup growth and ecosystem health.
+
+## Rationale
+
 Strong partnerships can improve business opportunities and resource access.
-Advantages
-- Reflects program role as a community builder.
+
+## Advantages
+
+- Reflects the program's role as a community builder.
 - Encourages knowledge exchange and collaboration.
-Limitations
+
+## Limitations
+
 - Quantitative counts may obscure partnership quality.
-- Regional and legal differences impact partnering ability.
+- Regional and legal differences can affect partnering ability.
 
 ## Source
 

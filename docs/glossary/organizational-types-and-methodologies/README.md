@@ -2,6 +2,8 @@
 
 Program models, organizational archetypes, and delivery approaches used across incubation and acceleration.
 
+Start here if you are comparing program structures, support models, or the different institutional forms used to deliver startup support.
+
 ## Pages
 
 - [Business Incubator](business-incubator.md)

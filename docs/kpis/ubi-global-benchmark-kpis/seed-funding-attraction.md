@@ -1,21 +1,33 @@
 # Seed Funding Attraction
 
-Illustration Metric Definition: Seed Funding Attraction Probability or total amount of seed-stage investments attracted by program startups.
-### Definition
+Probability or total amount of seed-stage investment attracted by program startups.
+
+## Definition
+
 Measures program success in helping startups secure early-stage capital.
-### Purpose
-To improve understanding of the program's impact on critical early financing phases.
-### Rationale
+
+## Purpose
+
+Improves understanding of the program's impact on critical early financing phases.
+
+## Rationale
+
 Seed funding is essential to startup product development and validation.
-### Advantages
-- Targeted measure for early-stage program efficacy.
-- Linked to ultimate startup success rate.
-### Limitations
+
+## Advantages
+
+- A targeted measure for early-stage program efficacy.
+- Linked to ultimate startup success rates.
+
+## Limitations
+
 - Investment timing and definitions may vary.
 - May overlap with total investment KPIs.
-See also:
-- Average Investment Attracted
-- Partners
+
+## Related Articles
+
+- [Average Investment Attracted](average-investment-attracted.md)
+- [Partners](partners.md)
 
 ## Source
 

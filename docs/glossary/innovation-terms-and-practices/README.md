@@ -2,6 +2,8 @@
 
 Language for product development, experimentation, commercialization, and startup growth methods.
 
+Start here if you are looking for the operating language of founders, product teams, commercialization programs, and experimentation-heavy startup support work.
+
 ## Pages
 
 - [Commercialization](commercialization.md)

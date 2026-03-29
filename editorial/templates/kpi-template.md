@@ -4,6 +4,11 @@
 
 One to three sentences explaining what the metric measures.
 
+## Page Details
+
+- Content type: KPI
+- Reviewed:
+
 ## Definition
 
 Define the KPI clearly.
@@ -32,3 +37,7 @@ Describe why this KPI is useful in industry benchmarking or program management.
 
 - Related metric 1
 - Related metric 2
+
+## Source
+
+- Source 1

@@ -1,21 +1,33 @@
 # Graduates
 
-Graduates image Metric Definition: Graduates The number of startups that complete the incubation or acceleration program within a defined period.
-### Definition
+Number of startups that complete the incubation or acceleration program within a defined period.
+
+## Definition
+
 Measures the volume of startups completing the program, indicating throughput and operational capacity.
-### Purpose
-To understand the program’s capacity to advance startups through to graduation.
-### Rationale
+
+## Purpose
+
+Helps explain the program's capacity to advance startups through to graduation.
+
+## Rationale
+
 Higher graduate numbers are positively correlated with ecosystem vibrancy and impact.
-### Advantages
+
+## Advantages
+
 - Easy to measure quantitatively.
 - Indicates program productivity and reach.
-### Limitations
+
+## Limitations
+
 - Does not capture qualitative outcomes of graduation.
 - Graduation alone does not guarantee startup success.
-Related articles:
-- Sales Revenue
-- Self-Generated Revenue
+
+## Related Articles
+
+- [Sales Revenue](sales-revenue.md)
+- [Self-Generated Revenue](self-generated-revenue.md)
 
 ## Source
 

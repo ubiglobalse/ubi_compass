@@ -1,86 +1,36 @@
 # World Benchmark Report 2021 - 2022
 
-## About
-The UBI Global World Benchmark Report 21/22 presents the sixth edition of the world’s leading study on business incubators and accelerators, benchmarking 109 programs across more than 45 countries . Amid global challenges, the report showcases how these organizations continue to fuel entrepreneurship, create jobs, and accelerate technological and societal progress.
-Insights that drive excellence.
-Built on a robust data framework of 21 key performance indicators , the report delivers a deep analysis of impact and performance across ecosystems, client startups, and program operations. This edition introduces Environmental, Social, and Governance (ESG) metrics for the first time, offering a comprehensive view of how innovation programs contribute to sustainable and inclusive growth.
-Empowering leaders of tomorrow’s innovation ecosystems.
-From Toronto to Taipei, the report captures the resilience and creativity of the global incubation and acceleration community. It provides universities, governments, corporates, and ecosystem leaders with the insights needed to benchmark, improve, and lead with purpose — shaping a smarter, more connected world of innovation. 🌍✨
-WBR2122 (Preview)
-WBR2122Preview
-Logo Access via Membership — Single item purchase
-## Table of Contents
-Executive Summary
-8
-Methodology Overview
-10
-Program Types
-10
-Program Groups
-11
-Benchmark and Ranking Framework
-12
-Research Partners
-13
-Incubation and Acceleration Landscape
-14
-Locations
-15
-Program Profiles
-17
-Financials
-23
-Client Startups
-29
-ESG (Environmental, Social, and Governance)
-30
-Benchmark Results and Insights
-42
-Rankings
-42
-Recognitions
-42
-Value for Ecosystem
-44
-Value for Client Startups
-48
-Value for Program
-54
-Insights and Best Practices
-Conclusion
-90
-Challenges
-90
-Best Practices
-91
-Opportunities
-92
-Methodology Annex
-98
-Benchmark and Ranking Framework
-99
-Methodological Procedure
-100
-Score Calculation
-101
-KPI Directory
-104
-Participating Programs
-106
-About UBI Global
-114
-## Free access via Membership
-- All publications are available for free in UBI Academy » arrow-up-right
-- Get your membership access here » arrow-up-right
-## Single item purchase
-World Benchmark Report 2021 - 2022 World Benchmark Report 2021 - 2022
-€19
-Get full report
-Supported payment methods:
-amex mastercard visa GOOGLE_PAY alipay link Related Articles
-- Environmental, Social & Governance (Sustainable Development Goals/SDGs)
-- 🏆 World Rankings Report 2021 - 2022
-- About Publications & Reports
+## Summary
+
+The UBI Global World Benchmark Report 2021-2022 is the sixth edition of the organization's flagship study on business incubators and accelerators. It benchmarks 109 programs across more than 45 countries and uses a framework of 21 key performance indicators to compare value for ecosystems, client startups, and program operations.
+
+This edition is especially notable because it introduces Environmental, Social, and Governance metrics, expanding the study beyond traditional operational and economic performance.
+
+## Key Sections
+
+- Executive summary and methodology overview
+- Program types, groups, and research partners
+- Incubation and acceleration landscape
+- ESG analysis
+- Benchmark results, rankings, and recognitions
+- KPI directory and participating programs
+
+## Video Explainer
+
+Official UBI Global explainer for the 2021-2022 World Benchmark Study application process:
+
+{% embed url="https://www.youtube.com/watch?v=WwIrhltuiX8" %}
+
+## Access Options
+
+- [UBI Academy](https://ubi-global.com/academy)
+- [UBI Global Membership](https://ubi-global.com/membership)
+
+## Related Publications
+
+- [World Rankings Report 2021 - 2022](../rankings-reports/world-rankings-report-2021-2022.md)
+- [World Benchmark Report 2019 - 2020](world-benchmark-report-2019-2020.md)
+- [Environmental, Social & Governance (Sustainable Development Goals/SDGs)](../../glossary/esg/environmental-social-and-governance-sdg/README.md)
 
 ## Source
 

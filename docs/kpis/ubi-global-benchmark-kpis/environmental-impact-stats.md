@@ -1,15 +1,32 @@
 # Environmental Impact Stats
 
-## Metric Definition: Environmental Impact Stats
-Tracking and reporting of client startups’ environmental impact.
-Definition: Indicates program capability and commitment to monitoring the environmental effects of supported startups.
-Purpose: To assess program engagement with the "E" in ESG by evaluating environmental sustainability impacts.
-Rationale: Environmental impact measurement reflects a deep ESG commitment despite complexity and resource demands.
-Encourages ongoing responsibility for ecological footprints.
-Difficult and costly to measure accurately.
-Alights with global climate and sustainability goals.
-Rarely done systematically by most organizations.
-Related article: DEI Stats
+Tracking and reporting of client startups' environmental impact.
+
+## Definition
+
+Indicates program capability and commitment to monitoring the environmental effects of supported startups.
+
+## Purpose
+
+Assesses program engagement with the "E" in ESG by evaluating environmental sustainability impacts.
+
+## Rationale
+
+Environmental impact measurement reflects a deep ESG commitment despite its complexity and resource demands.
+
+## Advantages
+
+- Encourages ongoing responsibility for ecological footprints.
+- Aligns with global climate and sustainability goals.
+
+## Limitations
+
+- Difficult and costly to measure accurately.
+- Rarely done systematically by most organizations.
+
+## Related Articles
+
+- [DEI Stats](../../glossary/esg/dei-stats.md)
 
 ## Source
 

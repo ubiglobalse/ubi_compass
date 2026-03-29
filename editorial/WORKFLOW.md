@@ -26,3 +26,5 @@ Do not treat Google Docs as the published canonical layer once content is approv
 - Prefer relative image paths
 - Prefer hosted video embeds over checked-in video binaries
 - Keep raw source assets in Drive if they are large or still in production
+- Use the content templates under `editorial/templates/` when creating or substantially revising a page
+- Follow `editorial/READABILITY-STANDARDS.md` for page structure, freshness cues, and scan-friendly formatting

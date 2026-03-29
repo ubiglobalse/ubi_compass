@@ -1,22 +1,33 @@
 # Total Investment Attracted
 
-## Metric Definition: Total Investment Attracted
-Total amount of financing secured by client and alumni startups, supported by the program.
-### Definition
-Measures the program’s effectiveness in facilitating startup funding success.
-### Purpose
-To evaluate the financial support surface area cultivated through program efforts.
-### Rationale
+Total amount of financing secured by client and alumni startups with support from the program.
+
+## Definition
+
+Measures the program's effectiveness in facilitating startup funding success.
+
+## Purpose
+
+Evaluates the financial support surface area cultivated through program efforts.
+
+## Rationale
+
 Securing investment is critical to startup survival and growth.
-### Advantages
+
+## Advantages
+
 - Directly linked to startup operational capacity.
 - Reflects program access to funding networks.
-### Limitations
+
+## Limitations
+
 - Impact may vary depending on economic context.
 - Less informative about individual startup success.
-Related articles:
-- Coaching and Mentoring Hours
-- Average Investment Attracted
+
+## Related Articles
+
+- [Coaching and Mentoring Hours](coaching-and-mentoring-hours.md)
+- [Average Investment Attracted](average-investment-attracted.md)
 
 ## Source
 

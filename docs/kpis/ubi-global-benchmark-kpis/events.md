@@ -1,20 +1,33 @@
 # Events
 
-## Events
-### Metric Definition: Events
 Number and type of events organized or hosted by the program to engage stakeholders.
-Definition: Measures program efforts in fostering community and stakeholder involvement.
-Purpose: To track engagement levels and networking opportunities offered by the program.
-Rationale: Events facilitate knowledge sharing, visibility, and startup exposure.
-Advantages:
+
+## Definition
+
+Measures program efforts in fostering community and stakeholder involvement.
+
+## Purpose
+
+Tracks engagement levels and networking opportunities offered by the program.
+
+## Rationale
+
+Events facilitate knowledge sharing, visibility, and startup exposure.
+
+## Advantages
+
 - Easy to quantify over time.
 - Supports ecosystem vibrancy metrics.
-Limitations:
+
+## Limitations
+
 - Event quantity may not equate to quality or outcomes.
-- COVID-19 and other disruptions affect event dynamics.
-### Related articles
-- Partners
-- Alumni Engagement
+- External disruptions can affect event dynamics.
+
+## Related Articles
+
+- [Partners](partners.md)
+- [Alumni Engagement](alumni-engagement.md)
 
 ## Source
 

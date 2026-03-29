@@ -4,14 +4,14 @@
 
 - **Project:** Compass
 - **Core value:** Users can quickly find and confidently understand authoritative incubator and accelerator terminology and related industry intelligence without insider knowledge.
-- **Current focus:** Prepare Phase 2 discovery and navigation work
+- **Current focus:** Phase 3 execution: readable page standards, freshness cues, and content-structure normalization
 
 ## Current Position
 
-- **Current phase:** 2 - Discovery and Navigation
-- **Current plan:** Phase 1 completed, Phase 2 planning not started
-- **Overall status:** Phase 1 complete
-- **Progress:** 1 / 4 phases complete
+- **Current phase:** 3 - Readable Intelligence Experience
+- **Current plan:** Phase 3 kickoff underway with readability standards and template alignment; page normalization comes next
+- **Overall status:** Phase 3 in progress
+- **Progress:** 2 / 4 phases complete
 
 ## Performance Metrics
 
@@ -30,22 +30,25 @@
 | 2026-03-29 | Repository Markdown is the canonical publishable source for Compass | GitBook works best when published from versioned Markdown content |
 | 2026-03-29 | Google Docs or Drive may be used for drafting, but approved content should land in the repo before publish | Drafting convenience and publishing control are different needs |
 | 2026-03-29 | Images should live with the published Markdown tree and video should usually be embedded from a stable public host | Editors need a clear and low-friction media workflow |
+| 2026-03-29 | The legacy live GitBook structure is disposable and can be rebuilt from the repo | Structural clarity matters more than preserving old public URLs |
+| 2026-03-29 | KPI detail pages should be renamed and organized around canonical metric names, not imported legacy slugs | The original GitBook export collapsed many KPI pages under misleading Jobs created and sustained paths |
+| 2026-03-29 | Publications should be grouped by report type rather than inherited mixed GitBook categories | Readers need cleaner browse paths for benchmark reports, rankings reports, case studies, and ecosystem reports |
+| 2026-03-29 | Phase 3 will improve readability through editorial structure and standards rather than a custom frontend layer | This repo publishes to GitBook and should optimize the reading experience through content design first |
 
 ## Assumptions
 
 | Date | Assumption | Next Check |
 |------|------------|------------|
-| 2026-03-29 | Search should span glossary, KPI/metric, and report/publication content | Validate in Phase 2 implementation |
-| 2026-03-29 | GitBook Git Sync remains the preferred publishing mechanism | Reconfirm during setup with the real GitBook space |
+| 2026-03-29 | Search should span glossary, KPI/metric, and report/publication content | Confirm in live GitBook verification follow-up |
+| 2026-03-29 | GitBook Git Sync remains the preferred publishing mechanism | Verify in the deferred live GitBook sync pass |
 | 2026-03-29 | Lead capture will be contextual rather than aggressively gated | Confirm during Phase 4 planning |
 
 ## Todos
 
-- Plan Phase 2 in executable detail
-- Review and normalize migrated content where the live source is inconsistent
-- Add real images and video embeds to priority pages using the media workflow
-- Design site-wide search across glossary, KPI, and publication entries in the GitBook experience
-- Define browse affordances for users who do not start with an exact term
+- Normalize priority glossary pages to the Phase 3 readability pattern
+- Normalize priority KPI and publication pages for summary-first reading and freshness cues
+- Run a Phase 3 GitBook reading QA pass after the first content batch
+- Keep the deferred GitBook sync verification pass available as an external follow-up
 
 ## Blockers
 
@@ -58,4 +61,15 @@
 - Initial docs taxonomy and first migration batch completed on 2026-03-29
 - Second migration wave completed for core concepts and publications on 2026-03-29
 - Full GitBook sitemap migration completed on 2026-03-29
-- Recommended next command: `/gsd:plan-phase 2`
+- Repository architecture rebuilt on 2026-03-29 around canonical glossary, KPI, and publication structures
+- KPI pages were renamed to canonical metric slugs and documented in `editorial/KPI-QA.md`
+- KPI editorial cleanup completed on 2026-03-29 with normalized section structure and working related-article links
+- Media workflow validated on 2026-03-29 with a real report cover image and an official YouTube explainer embedded in publication pages
+- Discovery/search direction captured on 2026-03-29 in `editorial/DISCOVERY-DESIGN.md`
+- Discovery browse hubs were strengthened on 2026-03-29 with clearer section summaries for GitBook search and browse
+- GitBook live QA was formalized on 2026-03-29 in `editorial/GITBOOK-VERIFICATION.md`
+- Wave 4 discovery design was completed in-repo on 2026-03-29 with explicit search intents, content-type signaling rules, and implementation guidance
+- Wave 5 verification readiness was completed in-repo on 2026-03-29 with strengthened landing pages and a reusable QA log template
+- Phase 2 was closed in-repo on 2026-03-29 and the team moved into Phase 3 planning, with live GitBook verification retained as a follow-up operational check
+- Phase 3 kicked off on 2026-03-29 with readability standards and template updates captured in `editorial/READABILITY-STANDARDS.md`
+- Recommended next command: `/gsd:execute-phase 3`

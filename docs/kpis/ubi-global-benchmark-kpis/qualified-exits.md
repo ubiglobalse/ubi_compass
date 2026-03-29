@@ -1,21 +1,36 @@
 # Qualified Exits
 
-## Metric Definition: Qualified Exits
 Number of startups achieving successful exits, such as acquisition or IPO.
-### Definition
-Measures peak-level startup success post-program.
-### Purpose
-To demonstrate the organization's contribution to high-value entrepreneurial outcomes.
-### Rationale
+
+## Definition
+
+Measures peak-level startup success after the program.
+
+## Purpose
+
+Demonstrates the organization's contribution to high-value entrepreneurial outcomes.
+
+## Rationale
+
 Exits exemplify financial and strategic milestone achievements.
+
+## Note
+
 A qualified acquisition occurs when a client or alumni startup is acquired for an amount greater than $5 million above the amount of capital raised by the company.
-### Advantages
+
+## Advantages
+
 - Clear indicator of startup and program success.
 - Attractive for stakeholders and funders.
-### Limitations
+
+## Limitations
+
 - Limited applicability for young or early-stage programs.
-- Definitions of “qualified” can vary by region.
-Related article: High-Growth Enterprises
+- Definitions of "qualified" can vary by region.
+
+## Related Articles
+
+- [High-Growth Enterprises](high-growth-enterprises.md)
 
 ## Source
 
