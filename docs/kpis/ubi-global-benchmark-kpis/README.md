@@ -1,41 +1,29 @@
 # UBI Global Benchmark KPIs
 
-The UBI Global Benchmark KPIs are a relative performance measurement tool that compares an organization’s data against the top-performing organization within the same category. The value lies in understanding the gap between the best in class and one’s own performance, which guides strategic improvements and program development.
-### Did You Know
-Organizations use UBI Benchmark KPIs to identify strengths, weaknesses, and opportunities for growth by analyzing performance across multiple metrics specific to incubators and accelerators. This benchmarking process helps programs align with global best practices, enhance operational effectiveness, and improve support for startups. Ongoing tracking of these KPIs enables continuous learning and competitive positioning in the innovation ecosystem.
-### Bonus Fact
-The UBI Global Benchmark KPIs provide actionable insights by contextualizing performance within a global framework. Programs that actively leverage these benchmarks gain a clearer picture of competitive positioning and prioritize efforts that yield the highest impact. Regular participation in UBI benchmarking supports continuous evolution and credibility in the startup support community.
-## Related Articles
-- UBI Global Ranking
-- Net Promoter Score (NPS)
+These are the canonical KPI definition pages for Compass. Each page maps to one metric and is named after the metric itself rather than the broken source slug used in the original GitBook export.
 
-## Pages
+## KPI Definitions
 
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-1.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-2.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-3.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-4.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-5.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-6.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-7.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-8.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-9.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-10.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-11.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-12.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-13.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-14.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-15.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-16.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-17.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-18.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-19.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-20.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-21.md)
-- [KPI: Jobs created and sustained](kpi-jobs-created-and-sustained-22.md)
-
-## Source
-
-- Migrated from the current Compass GitBook page on 2026-03-29
-- Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis
+- [ESG Framework Adoption](esg-framework-adoption.md)
+- [In-state Applications](in-state-applications.md)
+- [Graduates](graduates.md)
+- [Events](events.md)
+- [5-Year Survival Rate](five-year-survival-rate.md)
+- [Seed Funding Attraction](seed-funding-attraction.md)
+- [High-Growth Enterprises](high-growth-enterprises.md)
+- [Average Investment Attracted](average-investment-attracted.md)
+- [Environmental Impact Stats](environmental-impact-stats.md)
+- [Alumni Engagement](alumni-engagement.md)
+- [1-Year Survival Rate](one-year-survival-rate.md)
+- [Coaching and Mentoring Hours](coaching-and-mentoring-hours.md)
+- [Out-of-State Applications](out-of-state-applications.md)
+- [Services Offered](services-offered.md)
+- [Sponsorship Attraction](sponsorship-attraction.md)
+- [Client Startups Accepted](client-startups-accepted.md)
+- [Partners](partners.md)
+- [Self-Generated Revenue](self-generated-revenue.md)
+- [Graduate Retention](graduate-retention.md)
+- [Total Investment Attracted](total-investment-attracted.md)
+- [Jobs Created and Sustained](jobs-created-and-sustained.md)
+- [Sales Revenue](sales-revenue.md)
+- [Qualified Exits](qualified-exits.md)

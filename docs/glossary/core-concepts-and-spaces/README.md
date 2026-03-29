@@ -1,25 +1,22 @@
-# 0 Core Concepts and Spaces
+# Core Concepts and Spaces
+
+Foundational concepts for understanding incubators, accelerators, ecosystems, and the collaborative structures around them.
 
 ## Pages
 
-- [Living Lab](living-lab.md)
-- [Startup Ecosystem](startup-ecosystem.md)
-- [Innovation Ecosystem](innovation-ecosystem.md)
+- [Cluster Strategy](cluster-strategy.md)
+- [Community Impact](community-impact.md)
+- [Coopetition](coopetition.md)
 - [Ecosystem Enabler](ecosystem-enabler.md)
+- [Ecosystem Orchestration Framework](ecosystem-orchestration-framework.md)
 - [Ecosystem Orchestrator](ecosystem-orchestrator.md)
 - [Ecosystem Partnership](ecosystem-partnership.md)
-- [Ecosystem Orchestration Framework](ecosystem-orchestration-framework.md)
-- [Service Provider Network](service-provider-network.md)
-- [Cluster Strategy](cluster-strategy.md)
-- [Strategic Alliance](strategic-alliance.md)
-- [Joint Venture](joint-venture.md)
-- [Coopetition](coopetition.md)
-- [Community Impact](community-impact.md)
 - [Impact Innovation](impact-innovation.md)
+- [Innovation Ecosystem](innovation-ecosystem.md)
 - [Innovation Entrepreneurship Journey](innovation-entrepreneurship-journey.md)
+- [Joint Venture](joint-venture.md)
+- [Living Lab](living-lab.md)
+- [Service Provider Network](service-provider-network.md)
+- [Startup Ecosystem](startup-ecosystem.md)
 - [Startup Lifecycle](startup-lifecycle.md)
-
-## Source
-
-- Migrated from the current Compass GitBook page on 2026-03-29
-- Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/core-concepts-and-spaces
+- [Strategic Alliance](strategic-alliance.md)

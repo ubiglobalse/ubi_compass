@@ -1,8 +1,10 @@
 # Publications & Reports
 
-This section catalogs reports, briefs, and other reference material relevant to the Compass audience.
+Compass publications are now organized by report type instead of inheriting the mixed legacy structure from the old GitBook space.
 
 ## Categories
 
-- [Benchmark & Ranking Reports](benchmark-and-ranking-reports/README.md)
+- [Benchmark Reports](benchmark-reports/README.md)
+- [Rankings Reports](rankings-reports/README.md)
+- [Case Studies](case-studies/README.md)
 - [Ecosystem Reports](ecosystem-reports/README.md)

@@ -1,9 +1,9 @@
 # KPIs & Metrics
 
-This section explains benchmark measures, metric definitions, and interpretation guidance across the current Compass library.
+Compass separates benchmark context, the metric index, and the detailed KPI definition pages so the library is easier to browse and maintain.
 
 ## Categories
 
-- [Industry Benchmark](industry-benchmark/README.md)
-- [KPIs](kpis/README.md)
+- [Benchmark Framework](benchmark-framework/README.md)
+- [Metric Library](metric-library/README.md)
 - [UBI Global Benchmark KPIs](ubi-global-benchmark-kpis/README.md)

@@ -1,14 +1,14 @@
 # Glossary of Terms
 
-This section contains terminology, concepts, actors, and operating models used across incubation and acceleration.
+Compass terminology is organized as a browsable reference library so editors and readers can find concepts by theme, not by the shape of the old GitBook import.
 
 ## Categories
 
-- [0 Core Concepts and Spaces](core-concepts-and-spaces/README.md)
-- [1 Digital Wave](digital-wave/README.md)
-- [2 Financial Terms](financial-terms/README.md)
-- [3 Innovation Terms and Practices](innovation-terms-and-practices/README.md)
-- [4 Key Players](key-players/README.md)
-- [5 Organizational Types and Methodologies](organizational-types-and-methodologies/README.md)
-- [6 Performance Tracking and Metrics](performance-tracking-and-metrics/README.md)
-- [7 ESG](esg/README.md)
+- [Core Concepts and Spaces](core-concepts-and-spaces/README.md)
+- [Digital Wave](digital-wave/README.md)
+- [Financial Terms](financial-terms/README.md)
+- [Innovation Terms and Practices](innovation-terms-and-practices/README.md)
+- [Key Players](key-players/README.md)
+- [Organizational Types and Methodologies](organizational-types-and-methodologies/README.md)
+- [Performance Tracking and Metrics](performance-tracking-and-metrics/README.md)
+- [ESG](esg/README.md)

@@ -1,19 +1,11 @@
 # Compass
 
-## Industry Intelligence
+Compass is UBI Global's repository-backed terminology and intelligence library for the incubator and accelerator industry.
 
-A centralized source of authoritative terminology and intelligence for the startup business incubator industry.
-
-Welcome to Compass. UBI Global is advancing industry intelligence for global startup incubators and accelerators through a comprehensive terminology library combined with industry intelligence.
-
-Compass is intended to expand over time with glossary terms, KPI guidance, and research reports that help ecosystem actors build a shared language and act on stronger information.
+GitBook is the publishing layer. This repository is the canonical source of truth for approved Markdown content, media references, and information architecture.
 
 ## Sections
 
-- [Glossary](./glossary/README.md)
-- [KPIs & Metrics](./kpis/README.md)
-- [Publications & Reports](./publications/README.md)
-
-## Repository Note
-
-GitBook is the publishing layer. This repository is the canonical Markdown source of truth for approved Compass content.
+- [Glossary of Terms](glossary/README.md)
+- [KPIs & Metrics](kpis/README.md)
+- [Publications & Reports](publications/README.md)
