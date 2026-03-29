@@ -1,17 +1,30 @@
 # Crowdfunding
 
-Crowdfunding is a financing method where startups and entrepreneurs raise small amounts of capital from a large group of people, typically via online platforms. Funders receive incentives such as early access to products, exclusive rewards, or equity stakes in exchange for their contributions, enabling startups to validate ideas, build communities, and generate critical early-stage funds.
-## Did you know...
-Crowdfunding engages diverse backers by offering transparent, compelling campaigns that communicate product value and vision. Startups leverage digital marketing, social media, and incubator support to amplify reach and sustain momentum throughout the fundraising process. Successful campaigns create loyal customer bases while providing vital capital for product development, marketing, and scaling efforts.
-Incubators often play a pivotal role by coaching startups on campaign development, legal compliance, and fulfillment strategies to maximize crowdfunding success.
-Related Articles
-- Bootstrapping
-- Funding Rounds (Pre-Seed, Seed, Series A/B/C)
-- Open Innovation
-- Corporate Venture Capital (CVC)
-- Decentralized Finance (DeFi)
+## Summary
 
-## Source
+Crowdfunding is a way of raising capital by collecting relatively small contributions from a large group of people, usually through online platforms.
+
+## Definition
+
+Crowdfunding campaigns invite backers to support a startup or product in exchange for rewards, early access, community participation, or, in some models, equity. It can help founders test demand while also financing early development.
+
+## Why It Matters
+
+Crowdfunding combines fundraising with market validation and community-building. It can give startups an early customer base, public visibility, and signal that there is real interest in the idea before larger-scale investment.
+
+## Industry Context
+
+Successful campaigns usually depend on strong storytelling, clear value propositions, and well-managed promotion. Incubators may support founders with campaign design, legal considerations, fulfillment planning, and customer-communication strategy.
+
+## Related Terms
+
+- [Bootstrapping](bootstrapping.md)
+- [Funding Rounds (Pre-Seed, Seed, Series A/B/C)](funding-rounds-pre-seed-seed-series-a-b-c.md)
+- [Open Innovation](../innovation-terms-and-practices/open-innovation.md)
+- [Corporate Venture Capital (CVC)](corporate-venture-capital-cvc.md)
+- [Decentralized Finance (DeFi)](decentralized-finance-defi.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/financial-terms/crowdfunding

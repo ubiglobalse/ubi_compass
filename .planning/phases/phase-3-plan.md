@@ -20,7 +20,7 @@ Compass should make glossary terms, KPI definitions, and publication pages easy 
 - Add freshness guidance for published or reviewed dates
 - Align editorial templates and workflow notes with the Phase 3 reading model
 
-### Wave 2 - Glossary Reading Pass (In Progress)
+### Wave 2 - Glossary Reading Pass (Substantially Complete)
 
 - Normalize priority glossary pages to a summary, definition, importance, and context structure
 - Reduce walls of text and ambiguous headings inherited from migration work
@@ -60,3 +60,6 @@ Compass should make glossary terms, KPI definitions, and publication pages easy 
 - Remaining migration-style ESG glossary pages were normalized on 2026-03-29, including the ESG overview page and the ESG requirement, admissions, funding, goals, monitoring, training, and network-affiliation entries
 - Remaining migration-style core-concepts pages were normalized on 2026-03-29, including cluster, ecosystem, alliance, lifecycle, and partnership concepts
 - Wave 3 started on 2026-03-29 with readability updates to `Sales Revenue`, `Client Startups Accepted`, `World Benchmark Report 2021 - 2022`, `Activating Entrepreneurship in Pakistan - Impact Study with PEP Foundation`, `Ahead of the Curve - Impact Study with Ontario Centres of Excellence`, and `Triumph of Innovation - Impact Study with District 2020`
+- Additional Phase 3 batches on 2026-03-29 covered key-player entries, selected digital-wave and innovation-practice pages, two more KPI pages, and the remaining benchmark/rankings/case-study publication pages
+- The remaining migration-style glossary pages were normalized on 2026-03-29 across digital-wave, financial-term, innovation-practice, organizational-type, performance-tracking, living-lab, and innovation-hub entries, leaving Wave 2 substantially complete
+- Link and formatting verification passed on 2026-03-29 for the active Phase 3 batch after resolving the final cross-page reference issues

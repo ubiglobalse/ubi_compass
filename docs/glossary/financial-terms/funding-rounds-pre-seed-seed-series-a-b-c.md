@@ -1,29 +1,40 @@
 # Funding Rounds (Pre-Seed, Seed, Series A/B/C)
 
-Funding rounds are defined stages in the startup capital-raising journey, progressing from the earliest idea validation (pre-seed and seed rounds) to accelerated growth and market expansion (Series A, B, and C). Each stage involves increasing amounts of capital raised and engagement with different types of investors, aligned with the startup’s maturity and business objectives.
-## Did you know...
-- Pre-seed: Initial funding to explore and develop the business idea, often from founders, friends, and family.
-- Seed: Early capital from angel investors or seed funds to launch product development, build the team, and gain initial customer traction.
-- Series A: Venture capital investment focused on scaling operations, optimizing business models, and generating consistent revenue.
-- Series B: Funding to expand market reach, grow customer base, and build organizational capabilities.
-- Series C: Later-stage capital aiming at entering new markets, product diversification, and preparing for large-scale growth or exit.
-These funding stages guide startups to match their capital needs with appropriate investors and milestones, supported by incubator guidance on fundraising strategies and investor relations.
-## Helpful Information
-Incubators can support startups by preparing pitch materials, facilitating investor introductions, and coaching teams on due diligence and negotiation to maximize capital access and business development.
-## Related Articles
-Startup Accelerator
-Corporate Venture Capital (CVC)
-Crowdfunding
-Angel Investor or Angel Group
-Venture Capital
-Initial Public Offering (IPO)
-Growth Stage
-Scaling
-Net Promoter Score (NPS)
-Decentralized Finance (DeFi)
-Impact Investment
+## Summary
 
-## Source
+Funding rounds are the staged phases of startup fundraising, typically progressing from pre-seed and seed capital to Series A, B, and C as the company matures.
+
+## Definition
+
+Each funding round usually reflects a different level of business maturity, traction, and capital need. Early rounds help validate an idea and launch the company, while later rounds are more often used for scaling, market expansion, and larger operational growth.
+
+## Why It Matters
+
+Understanding funding rounds helps founders match their capital needs to the right type of investor and the right stage of business development. It also gives incubators and accelerators a framework for coaching startups on readiness, fundraising strategy, and investor expectations.
+
+## Industry Context
+
+- Pre-seed: very early funding used to explore and shape the business idea.
+- Seed: early capital used to build the product, team, and first signs of traction.
+- Series A: investment focused on scaling a working business model.
+- Series B: growth capital used to expand market reach and organizational capability.
+- Series C and beyond: later-stage funding for larger expansion, diversification, or preparation for major exit paths.
+
+## Related Terms
+
+- [Business Accelerator](../key-players/business-accelerator.md)
+- [Corporate Venture Capital (CVC)](corporate-venture-capital-cvc.md)
+- [Crowdfunding](crowdfunding.md)
+- [Angel Investor or Angel Group](angel-investor-or-angel-group.md)
+- [Venture Capital](venture-capital.md)
+- [Initial Public Offering (IPO)](initial-public-offering-ipo.md)
+- [Growth Stage](../innovation-terms-and-practices/growth-stage.md)
+- [Scaling](../innovation-terms-and-practices/scaling.md)
+- [Net Promoter Score (NPS)](../performance-tracking-and-metrics/net-promoter-score-nps.md)
+- [Decentralized Finance (DeFi)](decentralized-finance-defi.md)
+- [Impact Investment](impact-investment.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/financial-terms/funding-rounds-pre-seed-seed-series-a-b-c

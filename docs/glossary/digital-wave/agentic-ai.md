@@ -1,13 +1,29 @@
 # Agentic AI
 
-Autonomous AI solutions capable of making decisions and carrying out sequences of actions independently are often used to streamline workflows, customer support, and operations. Agentic AI is now a central focus for startup incubators and accelerators, fundamentally changing the types of companies they work with, the expertise they offer, and the long-term impact of the businesses they help bring to market. Source: UBI Global, datacreds
-## Did you know...
-Agentic AI systems collaborate across functions and industries by perceiving contexts, setting goals, developing plans, and autonomously acting to achieve objectives. They streamline workflows through capabilities such as multi-step task execution, adaptive planning, and integration with external data or tools. Startups and innovation programs increasingly focus on agentic AI as it transforms the nature of companies they work with, raising the demand for expertise in autonomous systems and expanding the long-term impact of supported ventures.
-## Bonus Fact
-As the field evolves, agentic AI is poised to redefine enterprise workflows, customer experiences, and the future of autonomous business solutions. Source: Aerospike arrow-up-right
-Related category: Cloud-Native Solutions/Hybrid Cloud
+## Summary
 
-## Source
+Agentic AI refers to autonomous AI systems that can set goals, make decisions, and carry out sequences of actions with limited human intervention.
+
+## Definition
+
+Unlike simpler automation tools or single-step AI features, agentic AI systems can perceive context, plan next actions, interact with tools or data sources, and adapt as conditions change. In practice, they are used to streamline workflows, customer operations, and complex business processes.
+
+## Why It Matters
+
+Agentic AI is reshaping the kinds of startups incubators and accelerators support, as well as the expertise those programs need to provide. It expands what software can do independently and raises new questions about workflow design, product strategy, governance, and operational trust.
+
+## Industry Context
+
+The term is increasingly used across startup, enterprise, and infrastructure conversations to describe AI systems capable of multi-step execution rather than isolated prediction or generation. As the field matures, agentic AI is expected to influence customer service, enterprise operations, and the broader design of autonomous digital products.
+
+## Related Terms
+
+- [Cloud-Native Solutions/Hybrid Cloud](cloud-native-solutions-hybrid-cloud.md)
+- [Hyperautomation](hyperautomation.md)
+- [Digital Transformation](digital-transformation.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
+- Source references in migrated page: UBI Global, datacreds, Aerospike
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/digital-wave/agentic-ai

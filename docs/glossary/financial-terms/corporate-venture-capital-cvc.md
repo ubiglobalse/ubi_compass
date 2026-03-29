@@ -1,16 +1,28 @@
 # Corporate Venture Capital (CVC)
 
-Corporate Venture Capital (CVC) refers to the investment arms of established companies that provide funding, mentorship, and access to extensive networks for startups aligned with their strategic objectives. Unlike traditional venture capital, CVC aims not only for financial returns but also to foster innovative technologies and business models that complement or enhance the corporation’s core operations.
-### Did You Know
-CVC units actively collaborate with startups by investing capital and offering operational expertise, market insights, and industry connections. This collaboration accelerates startup growth while enabling corporations to access cutting-edge innovation and new market opportunities. CVC investments are typically made at various startup phases, balancing risk with strategic alignment.
-### Bonus Fact
-Startup incubators and accelerators frequently facilitate relationships between startups and CVCs to enhance ecosystem vitality and scale innovation.
-Related Articles
-- Venture Capital
-- Innovation Ecosystem
-- Funding Rounds (Pre-Seed, Seed, Series A/B/C)
+## Summary
 
-## Source
+Corporate venture capital is investment made by established companies into startups that align with their strategic interests as well as their financial goals.
+
+## Definition
+
+CVC units are the venture-investing arms of corporations. They provide capital to startups while also offering access to industry expertise, market knowledge, partnerships, and commercial channels that can help those ventures grow.
+
+## Why It Matters
+
+CVC can offer startups more than money. It can create access to customers, operational insight, and strategic validation that traditional investors may not provide. For corporations, it is a way to stay close to emerging technologies and business models.
+
+## Industry Context
+
+CVC investments can happen at different stages of company growth and often depend on the strategic fit between the startup and the parent company. Incubators and accelerators frequently help founders navigate these relationships because they can bring both opportunity and complexity.
+
+## Related Terms
+
+- [Venture Capital](venture-capital.md)
+- [Innovation Ecosystem](../core-concepts-and-spaces/innovation-ecosystem.md)
+- [Funding Rounds (Pre-Seed, Seed, Series A/B/C)](funding-rounds-pre-seed-seed-series-a-b-c.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/financial-terms/corporate-venture-capital-cvc

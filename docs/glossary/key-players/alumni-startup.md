@@ -1,19 +1,31 @@
 # Alumni Startup
 
-An alumni startup is a company that has graduated from an incubator or accelerator program after completing its structured support phase. These startups continue to scale, leveraging the foundation built during the program and often serve as inspiration and role models for current participants.
-## Did You Know
-Alumni startups maintain strong ties with their former incubators or accelerators through networking, mentorship, and sometimes investment. They exemplify success stories by showcasing growth milestones, fundraising achievements, and market impact.
-## Bonus Fact
-Incubators often engage alumni in events, advisory roles, and community-building activities to enrich the ecosystem. Strong alumni engagement fosters vibrant startup ecosystems , enhancing collaboration and innovation momentum. Tracking alumni engagement is an important KPI in the UBI Benchmark.
-## Related articles
-Startup Incubator
-Startup Accelerator
-Demo Day
-Innovation Ecosystem
-Advisor
-Angel Investor or Angel Group
+## Summary
 
-## Source
+An alumni startup is a company that has completed an incubator or accelerator program and continues operating beyond its structured support period.
+
+## Definition
+
+These startups are no longer current participants, but they remain part of the program's wider network and long-term impact story. Alumni startups often use the foundation built during the program to keep scaling, raising capital, or contributing to the surrounding ecosystem.
+
+## Why It Matters
+
+Alumni startups are an important indicator of long-term program influence. They show what happens after a founder leaves the formal support environment and can become proof points for startup success, ecosystem contribution, and program quality.
+
+## Industry Context
+
+Many incubators and accelerators maintain relationships with alumni through events, introductions, mentoring, partnerships, and sometimes investment. Strong alumni engagement can deepen ecosystem ties and create role models for newer founders entering the pipeline.
+
+## Related Terms
+
+- [Business Incubator](../organizational-types-and-methodologies/business-incubator.md)
+- [Business Accelerator](business-accelerator.md)
+- [Demo Day](../innovation-terms-and-practices/demo-day.md)
+- [Innovation Ecosystem](../core-concepts-and-spaces/innovation-ecosystem.md)
+- [Advisor](advisor.md)
+- [Angel Investor or Angel Group](../financial-terms/angel-investor-or-angel-group.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/key-players/alumni-startup

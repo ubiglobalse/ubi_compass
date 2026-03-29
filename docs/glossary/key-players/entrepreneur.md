@@ -1,16 +1,28 @@
 # Entrepreneur
 
-An entrepreneur is an individual who identifies a business opportunity and takes initiative to create a new venture, assuming most of the risks and rewards. Entrepreneurs develop innovative products, services, or business models that address market needs, driving economic growth through job creation, innovation, and value generation.
-## Did You Know
-Entrepreneurs lead the process of transforming ideas into viable businesses, managing resources, strategy, and operations. They embrace risk, adapt to challenges, and continuously seek product-market fit. By leveraging networks, funding sources, and market insights, entrepreneurs scale their startups and contribute to vibrant innovation ecosystems.
-## Bonus Fact
-Startup incubators and accelerators provide critical support by offering mentorship, resources, and connections to help entrepreneurs navigate the challenges of early-stage growth.
-Related Articles
-Intrapreneur
-Serial Entrepreneur
-Ecosystem Orchestrator
+## Summary
 
-## Source
+An entrepreneur is a person who identifies an opportunity and takes the initiative to build a new venture around it, accepting the risks and potential rewards that come with that effort.
+
+## Definition
+
+Entrepreneurs create products, services, or business models designed to solve real market problems. They combine vision, execution, and resourcefulness to move from idea to venture, often under conditions of uncertainty and limited resources.
+
+## Why It Matters
+
+Entrepreneurs are the central actors in startup ecosystems. Their ability to test ideas, assemble teams, raise capital, and learn from the market drives innovation, job creation, and broader economic value.
+
+## Industry Context
+
+Entrepreneurship requires more than a good idea. Founders need access to networks, mentoring, capital, and support systems that help them navigate product-market fit, operational growth, and strategic decision-making. That is why incubators and accelerators play such a prominent role in founder development.
+
+## Related Terms
+
+- [Intrapreneur](intrapreneur.md)
+- [Serial Entrepreneur](serial-entrepreneur.md)
+- [Ecosystem Orchestrator](../core-concepts-and-spaces/ecosystem-orchestrator.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/key-players/entrepreneur

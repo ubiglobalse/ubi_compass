@@ -1,16 +1,18 @@
 # Graduate Retention
 
-Number of program graduates who remain active contributors within the local ecosystem.
+## Summary
+
+Graduate retention measures how many program alumni remain active contributors in the local ecosystem after they complete the program.
 
 ## Definition
 
 Measures how many alumni stay in the region, continuing to impact the local economy and innovation environment.
 
-## Purpose
+## Interpretation
 
-Gauges the program's success in retaining talent that benefits the ecosystem over the long term.
+Higher retention can indicate that the program is contributing to durable regional capability, talent retention, and longer-term ecosystem value beyond the immediate support period.
 
-## Rationale
+## Why It Matters
 
 Retention indicates the enduring positive impact of the program beyond graduation.
 
@@ -29,7 +31,7 @@ Retention indicates the enduring positive impact of the program beyond graduatio
 - [Client Startups Accepted](client-startups-accepted.md)
 - [Services Offered](services-offered.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-18

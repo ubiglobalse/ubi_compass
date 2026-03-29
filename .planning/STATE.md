@@ -9,7 +9,7 @@
 ## Current Position
 
 - **Current phase:** 3 - Readable Intelligence Experience
-- **Current plan:** Phase 3 standards are in place, glossary normalization is underway, and the first KPI/publication readability batch has started
+- **Current plan:** Phase 3 standards are in place, the glossary readability sweep is substantially complete, and the KPI/publication normalization batch is well underway ahead of Wave 4 reading QA
 - **Overall status:** Phase 3 in progress
 - **Progress:** 2 / 4 phases complete
 
@@ -45,9 +45,8 @@
 
 ## Todos
 
-- Normalize priority glossary pages to the Phase 3 readability pattern
-- Normalize priority KPI and publication pages for summary-first reading and freshness cues
-- Run a Phase 3 GitBook reading QA pass after the first content batch
+- Finish the remaining KPI and publication normalization pages that still need the summary-first readability pattern
+- Run a Phase 3 GitBook reading QA pass on representative glossary, KPI, and publication pages
 - Keep the deferred GitBook sync verification pass available as an external follow-up
 
 ## Blockers
@@ -76,4 +75,7 @@
 - Remaining migration-style ESG and core-concepts glossary pages were normalized on 2026-03-29 to the new summary-first reading pattern
 - The first Phase 3 KPI and publication normalization batch was completed on 2026-03-29 across four priority pages
 - The ecosystem report publication pages were normalized on 2026-03-29 for `Activating Entrepreneurship in Pakistan`, `Ahead of the Curve`, and `Triumph of Innovation`
+- Additional Phase 3 readability passes on 2026-03-29 covered the remaining benchmark/rankings/case-study publications and another batch of glossary and KPI pages
+- The remaining legacy-style glossary pages were normalized on 2026-03-29 across digital-wave, financial-term, innovation-practice, organizational-type, and performance-tracking sections, with living-lab and innovation-hub also brought into the summary-first pattern
+- Formatting and local link verification passed on 2026-03-29 for the active Phase 3 batch after resolving the last broken cross-page references
 - Recommended next command: `/gsd:execute-phase 3`

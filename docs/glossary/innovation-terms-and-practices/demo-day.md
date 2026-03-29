@@ -1,20 +1,32 @@
 # Demo Day
 
-Demo Day is a pivotal event where startups, typically at the conclusion of an accelerator or incubator program, present their business ideas, products, and progress to a curated audience of investors, mentors, and key stakeholders. It serves as a platform for startups to showcase innovations, secure funding, build strategic partnerships, and gain visibility within the entrepreneurial ecosystem.
-## Did You Know
-During Demo Day, startups deliver concise, compelling pitches often lasting between 3 to 10 minutes, highlighting their problem statement, solution, market traction, team, and growth potential. Presentations may include product demos and are frequently followed by Q&A sessions, enabling investors to assess business viability and explore investment opportunities.
-## Bonus Fact
-For incubators, facilitating Demo Days strengthens ecosystem linkages and boosts startup investment readiness. Part of the UBI Global Benchmark KPIs, events such as Demo Days are important metrics to document and report. Join UBI Global and benchmark your performance and impact!
-## Related Articles
-- Startup Accelerator
-- Pitch Competition
-- Startup Incubator
-- Pilot Partnership or Pilot Program
-- Alumni Startup
-- Coopetition
-- Exit Strategy
+## Summary
 
-## Source
+Demo Day is the event where startups, usually at the end of an incubator or accelerator program, present their company, progress, and growth story to investors, mentors, partners, and other stakeholders.
+
+## Definition
+
+It is typically a curated showcase in which founders deliver a short pitch that explains the problem they are solving, the product or service they have built, the traction they have achieved, and what they need next. Some Demo Days also include product demonstrations or follow-up Q&A.
+
+## Why It Matters
+
+For startups, Demo Day can create visibility, credibility, and access to investors or strategic partners. For programs, it is both a capstone experience and a useful signal of how effectively they prepare founders for fundraising, storytelling, and market-facing engagement.
+
+## Industry Context
+
+Demo Days are common in accelerator models but also appear in incubators and other startup support environments. Their value depends on the quality of the audience, the readiness of participating startups, and how well the event connects founders to meaningful next steps rather than just a showcase moment.
+
+## Related Terms
+
+- [Business Accelerator](../key-players/business-accelerator.md)
+- [Pitch Competition](pitch-competition.md)
+- [Business Incubator](../organizational-types-and-methodologies/business-incubator.md)
+- [Pilot Partnership or Pilot Program](pilot-partnership-or-pilot-program.md)
+- [Alumni Startup](../key-players/alumni-startup.md)
+- [Coopetition](../core-concepts-and-spaces/coopetition.md)
+- [Exit Strategy](../financial-terms/exit-strategy.md)
+
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/glossary-of-terms/innovation-terms-and-practices/demo-day
