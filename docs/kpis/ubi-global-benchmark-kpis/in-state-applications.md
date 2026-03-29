@@ -1,16 +1,18 @@
 # In-state Applications
 
+## Summary
+
 Number of applications received from startups located within the program's state or region.
 
 ## Definition
 
 Measures local program demand and reputation.
 
-## Purpose
+## Interpretation
 
 Assesses program recognition and attractiveness to regional entrepreneurs.
 
-## Rationale
+## Why It Matters
 
 High local application rates can indicate program quality and ecosystem integration.
 
@@ -29,7 +31,7 @@ High local application rates can indicate program quality and ecosystem integrat
 - [Alumni Engagement](alumni-engagement.md)
 - [Out-of-State Applications](out-of-state-applications.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-1

@@ -93,3 +93,34 @@ Copy this block into the session note or planning log after verification:
 
 - 
 ```
+
+## Latest Attempt
+
+### GitBook Verification Result - 2026-03-29
+
+- Sync status: Not yet confirmed from the live space
+- Publishing branch: Not verified in GitBook admin during this repo session
+- Docs root confirmed: `.gitbook.yaml` continues to point publishing at `docs/`
+- Sidebar matches `docs/SUMMARY.md`: Repo-side expected structure is ready, but live published alignment is not yet confirmed
+- Duplicate or orphan pages found: Not fully assessed because representative page paths did not resolve
+
+#### Search checks
+
+- `mentor`: Not completed in the live GitBook UI during this session
+- `jobs created`: Not completed in the live GitBook UI during this session
+- `world rankings`: Not completed in the live GitBook UI during this session
+- `esg`: Not completed in the live GitBook UI during this session
+- `benchmark`: Not completed in the live GitBook UI during this session
+
+#### Page checks
+
+- Glossary page checked: direct request to `glossary-of-terms/key-players/mentor` returned `not found`
+- KPI page checked: direct request to `kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-21` returned `not found`
+- Image-backed publication checked: representative direct publication request returned `not found`
+- Video-backed publication checked: not attempted after direct-path failures
+- Related-link journey checked: deferred until the live published paths resolve
+
+#### Follow-up actions
+
+- Run the live GitBook sync or publish alignment step so the rebuilt repo routes are present in the published space
+- Re-run the checklist above once live paths resolve

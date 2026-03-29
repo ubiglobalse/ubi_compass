@@ -1,16 +1,18 @@
 # Total Investment Attracted
 
+## Summary
+
 Total amount of financing secured by client and alumni startups with support from the program.
 
 ## Definition
 
 Measures the program's effectiveness in facilitating startup funding success.
 
-## Purpose
+## Interpretation
 
 Evaluates the financial support surface area cultivated through program efforts.
 
-## Rationale
+## Why It Matters
 
 Securing investment is critical to startup survival and growth.
 
@@ -29,7 +31,7 @@ Securing investment is critical to startup survival and growth.
 - [Coaching and Mentoring Hours](coaching-and-mentoring-hours.md)
 - [Average Investment Attracted](average-investment-attracted.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-19

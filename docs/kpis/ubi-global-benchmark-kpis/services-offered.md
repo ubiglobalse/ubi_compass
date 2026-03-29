@@ -1,16 +1,18 @@
 # Services Offered
 
+## Summary
+
 Comprehensiveness of support services offered to client startups by the program.
 
 ## Definition
 
 Assesses the range and depth of services and support provided to startups within the program.
 
-## Purpose
+## Interpretation
 
 Assesses how effectively a program equips startups with the resources and services needed for long-term success.
 
-## Rationale
+## Why It Matters
 
 Extensive service offerings correlate with a higher likelihood of startup sustainability and growth.
 
@@ -29,7 +31,7 @@ Extensive service offerings correlate with a higher likelihood of startup sustai
 - [Graduate Retention](graduate-retention.md)
 - [Coaching and Mentoring Hours](coaching-and-mentoring-hours.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-13

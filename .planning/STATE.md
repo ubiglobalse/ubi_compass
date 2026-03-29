@@ -4,12 +4,12 @@
 
 - **Project:** Compass
 - **Core value:** Users can quickly find and confidently understand authoritative incubator and accelerator terminology and related industry intelligence without insider knowledge.
-- **Current focus:** Phase 3 execution: readable page standards, freshness cues, and content-structure normalization
+- **Current focus:** Phase 3 closeout: live GitBook reading QA and publication alignment
 
 ## Current Position
 
 - **Current phase:** 3 - Readable Intelligence Experience
-- **Current plan:** Phase 3 standards are in place, the glossary readability sweep is substantially complete, and the KPI/publication normalization batch is well underway ahead of Wave 4 reading QA
+- **Current plan:** Phase 3 content normalization is complete in-repo, repo-side QA is clean, and the only remaining closure step is the live GitBook sync and reading QA pass
 - **Overall status:** Phase 3 in progress
 - **Progress:** 2 / 4 phases complete
 
@@ -45,13 +45,13 @@
 
 ## Todos
 
-- Finish the remaining KPI and publication normalization pages that still need the summary-first readability pattern
-- Run a Phase 3 GitBook reading QA pass on representative glossary, KPI, and publication pages
-- Keep the deferred GitBook sync verification pass available as an external follow-up
+- Run the live GitBook sync or publish alignment step so the rebuilt repo paths resolve in the published space
+- Re-run the Phase 3 GitBook reading QA pass on representative glossary, KPI, and publication pages after sync
+- Close Phase 3 and move into Phase 4 once the live GitBook checks pass
 
 ## Blockers
 
-- None currently identified
+- Live GitBook spot checks are currently blocked by publish-path misalignment or missing sync: representative glossary, KPI, and publication page requests returned `not found` on 2026-03-29
 
 ## Session Continuity
 
@@ -78,4 +78,7 @@
 - Additional Phase 3 readability passes on 2026-03-29 covered the remaining benchmark/rankings/case-study publications and another batch of glossary and KPI pages
 - The remaining legacy-style glossary pages were normalized on 2026-03-29 across digital-wave, financial-term, innovation-practice, organizational-type, and performance-tracking sections, with living-lab and innovation-hub also brought into the summary-first pattern
 - Formatting and local link verification passed on 2026-03-29 for the active Phase 3 batch after resolving the last broken cross-page references
+- The remaining KPI detail pages were normalized on 2026-03-29, so all glossary, KPI, and publication priority content now follows the Phase 3 summary-first readability model in-repo
+- Repo-side Phase 3 QA passed on 2026-03-29 with clean formatting checks, clean local Markdown link checks, and a full KPI summary-pattern audit
+- Live GitBook spot checks on 2026-03-29 were attempted against representative glossary, KPI, and publication paths, but the published space returned `not found` for those direct page requests, leaving sync or publish alignment as the only remaining blocker to formal Phase 3 closure
 - Recommended next command: `/gsd:execute-phase 3`

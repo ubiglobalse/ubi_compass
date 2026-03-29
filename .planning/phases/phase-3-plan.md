@@ -20,13 +20,13 @@ Compass should make glossary terms, KPI definitions, and publication pages easy 
 - Add freshness guidance for published or reviewed dates
 - Align editorial templates and workflow notes with the Phase 3 reading model
 
-### Wave 2 - Glossary Reading Pass (Substantially Complete)
+### Wave 2 - Glossary Reading Pass (Complete)
 
 - Normalize priority glossary pages to a summary, definition, importance, and context structure
 - Reduce walls of text and ambiguous headings inherited from migration work
 - Preserve related-term pathways that support continued exploration
 
-### Wave 3 - KPI and Publication Reading Pass (In Progress)
+### Wave 3 - KPI and Publication Reading Pass (Complete)
 
 - Align KPI pages to a consistent summary-first structure with clear interpretation and why-it-matters framing
 - Align publication pages to a consistent summary, publication details, highlights, and access pattern
@@ -63,3 +63,6 @@ Compass should make glossary terms, KPI definitions, and publication pages easy 
 - Additional Phase 3 batches on 2026-03-29 covered key-player entries, selected digital-wave and innovation-practice pages, two more KPI pages, and the remaining benchmark/rankings/case-study publication pages
 - The remaining migration-style glossary pages were normalized on 2026-03-29 across digital-wave, financial-term, innovation-practice, organizational-type, performance-tracking, living-lab, and innovation-hub entries, leaving Wave 2 substantially complete
 - Link and formatting verification passed on 2026-03-29 for the active Phase 3 batch after resolving the final cross-page reference issues
+- The remaining KPI pages were normalized on 2026-03-29, bringing all `docs/kpis/ubi-global-benchmark-kpis` detail pages onto the summary-first readability pattern and effectively completing Wave 3
+- Repo-side Phase 3 QA passed on 2026-03-29: all KPI detail pages now include `Summary`, publication pages already matched the pattern, `git diff --check` passed, and local Markdown link verification passed for the active batch
+- Live GitBook spot checks on 2026-03-29 remain blocked pending sync or publish alignment: representative direct page requests under glossary, KPI, and publication paths returned `not found`, so Wave 4 cannot be fully closed from the repo alone

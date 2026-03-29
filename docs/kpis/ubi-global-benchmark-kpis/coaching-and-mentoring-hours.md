@@ -1,16 +1,18 @@
 # Coaching and Mentoring Hours
 
+## Summary
+
 Total hours of coaching and mentoring provided to founders within the program.
 
 ## Definition
 
 Measures the quantity of personalized guidance and knowledge transfer provided.
 
-## Purpose
+## Interpretation
 
 Assesses the program's role in enhancing founder competency and entrepreneurial capacity.
 
-## Rationale
+## Why It Matters
 
 Quality coaching is linked to reduced startup failure rates and improved founder skills.
 
@@ -29,7 +31,7 @@ Quality coaching is linked to reduced startup failure rates and improved founder
 - [Services Offered](services-offered.md)
 - [Total Investment Attracted](total-investment-attracted.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-11

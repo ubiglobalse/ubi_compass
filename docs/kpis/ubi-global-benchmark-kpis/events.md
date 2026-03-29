@@ -1,16 +1,18 @@
 # Events
 
+## Summary
+
 Number and type of events organized or hosted by the program to engage stakeholders.
 
 ## Definition
 
 Measures program efforts in fostering community and stakeholder involvement.
 
-## Purpose
+## Interpretation
 
 Tracks engagement levels and networking opportunities offered by the program.
 
-## Rationale
+## Why It Matters
 
 Events facilitate knowledge sharing, visibility, and startup exposure.
 
@@ -29,7 +31,7 @@ Events facilitate knowledge sharing, visibility, and startup exposure.
 - [Partners](partners.md)
 - [Alumni Engagement](alumni-engagement.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-3

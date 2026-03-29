@@ -1,16 +1,18 @@
 # Jobs Created and Sustained
 
+## Summary
+
 Number of jobs created and sustained by client startups and recent alumni startups.
 
 ## Definition
 
 Measures the total number of jobs directly created or maintained through the activities and support of an incubation or acceleration program within a defined period.
 
-## Purpose
+## Interpretation
 
 Assesses the program's capacity to generate and sustain employment as a key indicator of economic and societal impact.
 
-## Rationale
+## Why It Matters
 
 This metric provides a universal and consistently measurable indicator of sustained success that enjoys broad recognition across the innovation ecosystem.
 
@@ -29,7 +31,7 @@ This metric provides a universal and consistently measurable indicator of sustai
 
 - [Sales Revenue](sales-revenue.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-20

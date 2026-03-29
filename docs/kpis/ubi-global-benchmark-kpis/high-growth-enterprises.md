@@ -1,16 +1,18 @@
 # High-Growth Enterprises
 
+## Summary
+
 Number of startups exhibiting rapid post-graduation growth in revenue or employment.
 
 ## Definition
 
 Measures program success in facilitating high-impact startups.
 
-## Purpose
+## Interpretation
 
 Identifies startups driving significant economic contributions.
 
-## Rationale
+## Why It Matters
 
 High-growth companies contribute disproportionately to job creation and innovation.
 
@@ -33,7 +35,7 @@ High-growth enterprises are defined as client startups and alumni startups that 
 - [5-Year Survival Rate](five-year-survival-rate.md)
 - [Qualified Exits](qualified-exits.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-6

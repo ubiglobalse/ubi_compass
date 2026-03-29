@@ -1,16 +1,18 @@
 # 1-Year Survival Rate
 
+## Summary
+
 Percentage of startups surviving one year post-graduation.
 
 ## Definition
 
 Measures the early-stage viability of program graduates.
 
-## Purpose
+## Interpretation
 
 Evaluates short-term startup success and program effectiveness.
 
-## Rationale
+## Why It Matters
 
 High survival rates suggest strong program preparation and support.
 
@@ -29,7 +31,7 @@ High survival rates suggest strong program preparation and support.
 - [Sponsorship Attraction](sponsorship-attraction.md)
 - [5-Year Survival Rate](five-year-survival-rate.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-10

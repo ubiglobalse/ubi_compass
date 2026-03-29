@@ -1,16 +1,18 @@
 # 5-Year Survival Rate
 
+## Summary
+
 Percentage of startups surviving five years after program graduation.
 
 ## Definition
 
 Measures medium-term startup viability and sustainability.
 
-## Purpose
+## Interpretation
 
 Assesses deeper impact on entrepreneurial success.
 
-## Rationale
+## Why It Matters
 
 Longer-term survival is more indicative of lasting startup success.
 
@@ -29,7 +31,7 @@ Longer-term survival is more indicative of lasting startup success.
 - [1-Year Survival Rate](one-year-survival-rate.md)
 - [High-Growth Enterprises](high-growth-enterprises.md)
 
-## Source
+## Sources
 
 - Migrated from the current Compass GitBook page on 2026-03-29
 - Source URL: https://openlibrary.gitbook.io/compass/kpis-and-metrics/ubi-global-benchmark-kpis/kpi-jobs-created-and-sustained-4
