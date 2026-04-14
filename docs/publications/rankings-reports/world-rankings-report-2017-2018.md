@@ -8,29 +8,29 @@ By recognizing top-performing programs, the report gives universities, program m
 
 ## Cover Image
 
-![Cover of the World Rankings Report 2017 - 2018](../../media/publications/world-rankings-report-2017-2018/cover.png)
+![Cover of the World Rankings Report 2017 - 2018](../../.gitbook/assets/cover.png)
 
 ## Highlights
 
-- Program classification
-- Landscape and methodology overview
-- Benchmark and ranking framework
-- Ranking and recognition overview
-- Featured program directory
+* Program classification
+* Landscape and methodology overview
+* Benchmark and ranking framework
+* Ranking and recognition overview
+* Featured program directory
 
 ## Access the Report
 
-- [Open the interactive preview](https://pdf.ubi-global.com/wrr1718?title=WorldRankingsReport2017-2018)
-- [Join UBI Global](https://ubi-global.com/membership)
+* [Open the interactive preview](https://pdf.ubi-global.com/wrr1718?title=WorldRankingsReport2017-2018)
+* [Join UBI Global](https://ubi-global.com/membership)
 
 ## Related Publications
 
-- [World Rankings Report 2021 - 2022](world-rankings-report-2021-2022.md)
-- [World Rankings Report 2019 - 2020](world-rankings-report-2019-2020.md)
-- [World Benchmark Report 2017 - 2018](../benchmark-reports/world-benchmark-report-2017-2018.md)
-- [Best Practices at Top University-linked Business Incubators - Vol 1](../case-studies/best-practices-at-top-university-linked-business-incubators-vol-1.md)
+* [World Rankings Report 2021 - 2022](world-rankings-report-2021-2022.md)
+* [World Rankings Report 2019 - 2020](world-rankings-report-2019-2020.md)
+* [World Benchmark Report 2017 - 2018](../benchmark-reports/world-benchmark-report-2017-2018.md)
+* [Best Practices at Top University-linked Business Incubators - Vol 1](../case-studies/best-practices-at-top-university-linked-business-incubators-vol-1.md)
 
 ## Source
 
-- Migrated from the current Compass GitBook page on 2026-03-29
-- Source URL: https://openlibrary.gitbook.io/compass/publications-and-reports/benchmark-and-ranking-reports/world-rankings-report-2021-2022-1
+* Migrated from the current Compass GitBook page on 2026-03-29
+* Source URL: https://openlibrary.gitbook.io/compass/publications-and-reports/benchmark-and-ranking-reports/world-rankings-report-2021-2022-1
